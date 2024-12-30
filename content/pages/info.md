@@ -13,13 +13,11 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
-      ## Hey, I’m a scientific writer and transmedia designer. Born and raised
-      in Mumbai, that’s still where I create, write, and dream. I’m currently
-      exploring new ventures—ex-content executive, ex-research collaborator,
-      ex-MIT Tech Review contributor. When I’m not crafting stories or designing
-      ideas, I’m probably lost in philosophy or curating the perfect playlist.
-
+    text: >
+      Hey, I’m a scientific writer and transmedia designer from Mumbai. An
+      ex-content executive and MIT Tech Review collaborator, I’m now exploring
+      new ventures. When not creating, I’m diving into philosophy or curating
+      playlists.
     media:
       type: ImageBlock
       url: /images/about.jpg
