@@ -13,11 +13,13 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      Hey, I’m a scientific writer and transmedia designer. Born and raised in
+      Mumbai, that’s still where I create, write, and dream. I’m currently
+      exploring new ventures—ex-content executive, ex-research collaborator,
+      ex-MIT Tech Review contributor. When I’m not crafting stories or designing
+      ideas, I’m probably lost in philosophy or curating the perfect playlist.
+
     media:
       type: ImageBlock
       url: /images/about.jpg
