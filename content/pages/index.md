@@ -17,9 +17,10 @@ sections:
       I’m a scientific writer, transmedia designer, and editor, dabbling in
       digital content creation and philosophy of technology.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      This is my way of showcasing the blend of creativity and precision I bring
+      to every project—whether it’s writing for MIT Tech Review or collaborating
+      with designers and filmmakers. If that caught your eye, feel free to
+      scroll down for more details and credentials about my journey.
     styles:
       self:
         height: auto
