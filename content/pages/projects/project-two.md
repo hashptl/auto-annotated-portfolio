@@ -10,7 +10,7 @@ description: >-
   most of the time.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  url: /images/original_2ffa2bfae88364cf4ca20319e0cd79c6.png
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
