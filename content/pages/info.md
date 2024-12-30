@@ -14,8 +14,8 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      # Hey, I’m a scientific writer and transmedia designer. Born and raised in
-      Mumbai, that’s still where I create, write, and dream. I’m currently
+      ### Hey, I’m a scientific writer and transmedia designer. Born and raised
+      in Mumbai, that’s still where I create, write, and dream. I’m currently
       exploring new ventures—ex-content executive, ex-research collaborator,
       ex-MIT Tech Review contributor. When I’m not crafting stories or designing
       ideas, I’m probably lost in philosophy or curating the perfect playlist.
