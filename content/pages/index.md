@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/00C2ESKA!LABS.jpg
+  url: /images/Untitled-3bgsl.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -14,13 +14,11 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a scientific writer, transmedia designer, and editor, dabbling in
-      digital content creation and philosophy of technology.
+      Hello! I am Sulagna, an alias coined by one of my professors -"Skai" is
+      what all my friends call me. 
     subtitle: >-
-      This is my way of showcasing the blend of creativity and precision I bring
-      to every project—whether it’s writing for MIT Tech Review or collaborating
-      with designers and filmmakers. If that caught your eye, feel free to
-      scroll down for more details and credentials about my journey.
+      I am an interdisciplinary writer, multimedia designer and I study policy,
+      philosophy of technology & communications. Mostly i just think
     styles:
       self:
         height: auto
