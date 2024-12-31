@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-f
+    colors: colors-a
     backgroundSize: full
     title: >-
       Hello! I am Sulagna, my friends and professors call me "Skai". I am an
