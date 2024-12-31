@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/00C2ESKA!LABS.jpg
+  url: /images/Untitled-3bgsl.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
