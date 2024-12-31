@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-a
-    backgroundSize: full
+    backgroundSize: inset
     title: >-
       Hello! I am Sulagna, my friends and professors call me "Skai". I am an
       interdisciplinary writer, multimedia designer and I study policy,
