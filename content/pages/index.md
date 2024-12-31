@@ -14,9 +14,8 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      Hello! I am Sulagna, my friends and professors call me "Skai". I am an
-      interdisciplinary writer, multimedia designer and I study policy,
-      philosophy of technology & communications. Mostly i just think
+      Hello! I am Sulagna, an alias coined by one of my professors -"Skai" is
+      what all my friends call me. 
     subtitle: >-
       This is my way of showcasing the blend of creativity and precision I bring
       to every project—whether it’s writing for MIT Tech Review or collaborating
