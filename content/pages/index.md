@@ -14,8 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a scientific writer, transmedia designer, and editor, dabbling in
-      digital content creation and philosophy of technology.
+      Hello! I am Sulagna, my friends and professors call me "Skai". I am an
+      interdisciplinary writer, multimedia designer and I study policy,
+      philosophy of technology & communications. Mostly i just think
     subtitle: >-
       This is my way of showcasing the blend of creativity and precision I bring
       to every project—whether it’s writing for MIT Tech Review or collaborating
