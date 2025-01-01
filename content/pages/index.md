@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/Artboard 2BGSL.jpg
+  url: '/images/AdobeStock_359454193 [Converted].jpg'
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
