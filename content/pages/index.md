@@ -21,7 +21,7 @@ sections:
       multimedia designer and I have studied media communications, policy, and
       philosophy of science & tech. I am most interested in finding ways to
       enable "rhizomatic" thinking through materials such as interactive
-      softwares and literary peices.
+      softwares and literary pieces.
     styles:
       self:
         height: auto
