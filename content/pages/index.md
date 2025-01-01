@@ -23,8 +23,10 @@ sections:
       interested in finding ways to enable "rhizomatic" thinking through
       materials such as interactive softwares, films, digital artefacts and
       literary pieces. Additionally, I am deeply invested in understanding the
-      impact of unrestrained technological progress on human civilization
-      through a policymaking approach.
+      impact of unrestrained technological progress, and planetary-scale data on
+      the human civilization through a policymaking approach. Also skilled in
+      fashion technology, critique and building compelling brand narratives, i
+      intend on
     styles:
       self:
         height: auto
