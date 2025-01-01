@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/Untitled-3bgsl.jpg
+  url: /images/pstar.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -17,8 +17,17 @@ sections:
       Hello! I am Sulagna, an alias coined by one of my professors -"Skai" is
       what all my friends call me. 
     subtitle: >-
-      I am an interdisciplinary writer, multimedia designer and I study policy,
-      philosophy of technology & communications. Mostly i just think
+      I am an interdisciplinary writer [focusing mostly on science journalism],
+      multimedia designer and digital content specialist. I have studied media
+      communications, policy, and philosophy of science & tech. I am most
+      interested in finding ways to enable "rhizomatic" thinking through
+      materials such as interactive softwares, films, digital artefacts and
+      literary pieces. Additionally, I am deeply invested in understanding the
+      impact of unrestrained technological progress, and planetary-scale data on
+      the human civilization through a policymaking approach. Also skilled in
+      fashion technology, critique and building compelling brand narratives - i
+      intend on pulling strands from these disparate domains of learning and
+      build something unique for posterity.
     styles:
       self:
         height: auto
@@ -36,6 +45,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row-reverse
+        borderColor: border-complementary
       title:
         textAlign: left
       subtitle:
