@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: '/images/AdobeStock_359454193 [Converted].jpg'
+  url: /images/pstar.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
