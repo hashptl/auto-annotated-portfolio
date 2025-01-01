@@ -10,43 +10,6 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    title: >-
-      Hello! I am Sulagna, an alias coined by one of my professors -"Skai" is
-      what all my friends call me. 
-    subtitle: >-
-      I am an interdisciplinary writer, multimedia designer and I study policy,
-      philosophy of technology & communications. Mostly i just think
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row-reverse
-        borderColor: border-complementary
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
-    actions: []
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -85,6 +48,43 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: Projects
+  - elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    title: >-
+      Hello! I am Sulagna, an alias coined by one of my professors -"Skai" is
+      what all my friends call me. 
+    subtitle: >-
+      I am an interdisciplinary writer, multimedia designer and I study policy,
+      philosophy of technology & communications. Mostly i just think
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-36
+          - pb-48
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row-reverse
+        borderColor: border-complementary
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: HeroSection
+    actions: []
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
