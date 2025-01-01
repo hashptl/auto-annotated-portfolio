@@ -17,8 +17,11 @@ sections:
       Hello! I am Sulagna, an alias coined by one of my professors -"Skai" is
       what all my friends call me. 
     subtitle: >-
-      I am an interdisciplinary writer, multimedia designer and I study policy,
-      philosophy of technology & communications. Mostly i just think
+      I am an interdisciplinary writer [focusing mostly on science journalism],
+      multimedia designer and I have studied media communications, policy, and
+      philosophy of science & tech. I am most interested in finding ways to
+      enable "rhizomatic" thinking through materials such as interactive
+      softwares and literary peices.
     styles:
       self:
         height: auto
