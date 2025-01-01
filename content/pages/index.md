@@ -18,10 +18,13 @@ sections:
       what all my friends call me. 
     subtitle: >-
       I am an interdisciplinary writer [focusing mostly on science journalism],
-      multimedia designer and I have studied media communications, policy, and
-      philosophy of science & tech. I am most interested in finding ways to
-      enable "rhizomatic" thinking through materials such as interactive
-      softwares and literary pieces.
+      multimedia designer and digital content specialist. I have studied media
+      communications, policy, and philosophy of science & tech. I am most
+      interested in finding ways to enable "rhizomatic" thinking through
+      materials such as interactive softwares, films, digital artefacts and
+      literary pieces. Additionally, I am deeply invested in understanding the
+      impact of unrestrained technological progress on human civilization
+      through a policymaking approach.
     styles:
       self:
         height: auto
