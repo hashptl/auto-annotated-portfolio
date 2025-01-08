@@ -52,7 +52,7 @@ addTitleSuffix: true
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: '/images/AdobeStock_359454193 [Converted].jpg'
+  url: /images/Untitled-3bgsl.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
