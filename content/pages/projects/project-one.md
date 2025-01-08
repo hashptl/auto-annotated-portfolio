@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: The Gaia Hypothesis; Modern Applications
 colors: colors-a
-date: '2021-11-15'
+date: '0002-11-15'
 client: By Sulagna Chatterjee
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
