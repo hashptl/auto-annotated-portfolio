@@ -14,10 +14,8 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      ## Hey, I’m a scientific writer and transmedia designer from Mumbai. An
-      ex-content executive and MIT Tech Review collaborator, I’m now exploring
-      new ventures. When not creating, I’m diving into philosophy or curating
-      playlists.
+      ## Hey, I’m a scientific writer and transmedia designer from Mumbai. A
+      content executive and MIT Tech Review collaborator.
 
     media:
       type: ImageBlock
