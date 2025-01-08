@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: The Gaia Hypothesis; Modern Applications
+title: ESSAY 3 ; The Gaia Hypothesis & Neri Oxman's Work
 colors: colors-a
 date: '2024-11-15'
 client: By Sulagna Chatterjee
