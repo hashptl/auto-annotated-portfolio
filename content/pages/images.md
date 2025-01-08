@@ -52,7 +52,7 @@ addTitleSuffix: true
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/Artboard 3BGSL.jpg
+  url: /images/Gradient Fill 1.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
