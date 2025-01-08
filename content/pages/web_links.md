@@ -15,7 +15,10 @@ sections:
       inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
 
 
-      [MedNews](https://www.news-medical.net/)
+      [MedNews ](https://www.news-medical.net/)
+
+
+      Use markdown from editor to embed links 
     elementId: ''
     styles:
       self:
