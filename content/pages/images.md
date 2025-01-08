@@ -32,7 +32,7 @@ sections:
     columns: 2
     aspectRatio: '1:1'
     showCaption: true
-    enableHover: false
+    enableHover: true
     elementId: ''
     styles:
       self:
