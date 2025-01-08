@@ -5,7 +5,7 @@ colors: colors-a
 date: '2024-11-15'
 client: By Sulagna Chatterjee
 description: >-
-  The Gaia theory posits that the Earth is a self-regulating complex system
+  The Gaia Hypothesis posits that the Earth is a self-regulating complex system
   involving the biosphere, the atmosphere,the hydrospheres and the pedosphere,
   tightly coupled as an evolving system. The theory sustains that this system as
   awhole, called Gaia, seeks a physical and chemical environment optimal for
