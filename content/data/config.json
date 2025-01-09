@@ -41,6 +41,14 @@
                 "type": "Social",
                 "label": "Facebook",
                 "altText": "",
+                "url": "https://www.linkedin.com/in/sulagna-chatterjee-8b3862205/",
+                "icon": "linkedin",
+                "elementId": ""
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
                 "url": "https://www.instagram.com/kynozomi/",
                 "icon": "instagram",
                 "elementId": ""
