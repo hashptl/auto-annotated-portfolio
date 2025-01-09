@@ -1,18 +1,18 @@
 ---
 type: ProjectLayout
-title: Dissecting a scientific article
+title: ESSAY 1; Dissecting
 colors: colors-a
-date: '2021-12-20'
+date: '2024-12-24'
 client: By Sulagna Chatterjee
 description: >-
   as part of my application assignments this year, I atomised a MIT technology
   review article on a brain map created by google "a peta-voxel fragment of the
   human cerebral cortex reconstructed at a subcellular resolution". The only
   purpose of this semantic dissection is to understand what makes a piece of
-  science communication, great.
+  science communication, worth reading.
 featuredImage:
   type: ImageBlock
-  url: /images/Artboard 3BGSL.jpg
+  url: /images/IMG-20250109-WA0002.jpg
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
@@ -22,14 +22,28 @@ media:
   altText: Project image
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+[The reviewed article is linked here](https://www.technologyreview.com/2024/05/09/1092223/google-map-cubic-millimeter-human-brain/)
 
-> “Everybody should learn to program a computer, because it teaches you how to think.”
+At first glance, the title "Google helped make an exquisitely detailed map of a tiny piece of the human brain" gives away that the coverage has to do with neuroscience or connectomics. Since MIT Technology Review is the bleeding edge of science stories, often publishing a cohesive journalistic piece on the subject of focus on the very same day that the original research is published on the primary academic sources like Science and Nature. The former is for seasoned personnel, but at Tech Review, it’s broken to the general public with urgency and a neutral stance.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+The mention of "Google" at the very beginning is a clear signal that the implications of the story may be huge, given its relation to the global tech behemoth owned by Alphabet, albeit a clever way to generate engagement from scientific audiences and laypeople alike. While this may also be interpreted as tilting toward a particular private corporation, so far this is strong journalism for digital dissemination.
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+Moving from the meta-title and cutting right to the chase, the story articulates how the peta-voxel fragment of the human cerebral cortex reconstructed at a subcellular resolution, is different from pre-existing repositories of advanced brain atlases. This is the locus of why the story is important in the first place, prospectively an essential tool for those already in the field while inviting neighbouring research cohorts. The piece cites primary sources for clarity of reference and verification, as reputable scientific press must.
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+Usage of superlatives in the draft is justified because the technology itself is monumental “the most detailed map of the human brain ever created.” Author has given a positive angle to the story. Tonality is not argumentative or opinionated like a guest essay. No active attempt to persuade the reader toward a certain conclusion like an Op-ed column in Nautilus or Undark Magazine, wherein the information is analyzed and outfitted with critique. Ethics in journalism is important; evidently, the draft does not mention the details of the epileptic patient from whom the neural specimen was extracted.
+
+Syntactically, the piece loosely adheres to the IMRAD (Introduction, Methods, Results, and Discussion) framework. Elucidating the scale and importance of the subject matter, how computation-intensive it was. Methods are broken down for ease of understanding  “cutting the tissue into 5,000 slices” explaining ML-integrated imaging techniques and electron microscopy. Descriptions of the map's “1,400 neurons and 700,000 synapses” vividly illustrate the development and results thereby helping it fit into the “Biotechnology & Health” column where it is rightly categorized.
+
+Scientific lexicon is integrated into the draft without any confounding jargon. Accurate biological terminologies like “synapses” and “neurons” are succeeded with brief explanations. This is good for comprehension; perhaps the most important aim of science communication is to atomize complex technical knowledge in a way that adds to the learning curves of diverse, non-expert audiences, and I believe this piece achieves that substantially.
+
+A hallmark of credible scientific articles is the inclusion of viewpoints from varying experts across disciplines. Those who were not directly involved will have a different vantage point for viewing the said brain map; demonstrated through quotes by Michael Hawrylycz, who was an outsider to the study, and Jeff Lichtman, who led the Harvard and Google team for the project, a remarkable data-gathering effort on the author’s part, making the narrative rich and balanced.
+
+Limitations of the research are clearly outlined. The acknowledgment that the sample represents just a “cubic millimeter” of brain tissue from an individual patient with a singular diagnosis of brain disorder - signals an understanding of the work's scope as fairly limited and therefore in need of further avenues of R\&D. This elicits sound scientific reporting done with integrity, instead of just sensationalizing the good bits of the story.
+
+Finally, in praise of the article, the draft includes a comprehensive explanation of relevant visual aid for the colored excitatory neurons in the beginning, which links seamlessly to the ending with an unambiguous call-to-action for visiting [Neuroglancer](https://h01-release.storage.googleapis.com/landing.html), wherein the open-source digital brain map is present for viewing, this is an element that broadens the scope for interaction, delivers good closure to the audience, and triggers open scientific discussions.
+
+
+
+
+

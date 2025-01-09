@@ -32,17 +32,19 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://www.linkedin.com/in/sulagna-chatterjee-8b3862205/",
+                "icon": "linkedin",
+                "elementId": ""
             },
             {
                 "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://www.instagram.com/kynozomi/",
+                "icon": "instagram",
+                "elementId": ""
             }
         ],
         "styles": {
@@ -93,7 +95,12 @@
         "styles": {
             "self": {
                 "width": "narrow",
-                "padding": ["pt-16", "pb-16", "pr-4", "pl-4"]
+                "padding": [
+                    "pt-16",
+                    "pb-16",
+                    "pr-4",
+                    "pl-4"
+                ]
             }
         }
     }
