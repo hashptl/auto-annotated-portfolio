@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: ESSAY 1; Dissecting
 colors: colors-a
-date: '2022-01-20'
+date: '2022-02-20'
 client: By Sulagna Chatterjee
 description: >-
   as part of my application assignments this year, I atomised a MIT technology
