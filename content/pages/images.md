@@ -12,7 +12,7 @@ sections:
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-2.jpg
+        url: /images/pstar.jpg
         altText: Image two
         caption: Image two caption
         elementId: ''
