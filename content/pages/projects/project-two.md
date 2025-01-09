@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: ESSAY 1;
+title: ESSAY 1; Dissecting
 colors: colors-a
 date: '2021-12-20'
 client: By Sulagna Chatterjee
