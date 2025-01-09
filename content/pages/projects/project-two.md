@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Dissecting a scientific article
+title: ESSAY 1;
 colors: colors-a
 date: '2021-12-20'
 client: By Sulagna Chatterjee
