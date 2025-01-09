@@ -1,13 +1,15 @@
 ---
 type: ProjectLayout
-title: The Gaia Hypothesis; Modern Applications
+title: ESSAY 3 ; The Gaia Hypothesis & Neri Oxman's Work
 colors: colors-a
-date: '2021-10-15'
-client: Awesome client
+date: '2024-11-15'
+client: By Sulagna Chatterjee
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  The Gaia Hypothesis posits that the Earth is a self-regulating complex system
+  involving the biosphere, the atmosphere,the hydrospheres and the pedosphere,
+  tightly coupled as an evolving system. The theory sustains that this system as
+  awhole, called Gaia, seeks a physical and chemical environment optimal for
+  contemporary life.[1]
 featuredImage:
   type: ImageBlock
   url: /images/original_58e5973e9522d8733db66064f0dcf973.gif

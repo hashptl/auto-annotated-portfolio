@@ -3,11 +3,13 @@ type: ProjectLayout
 title: Dissecting a scientific article
 colors: colors-a
 date: '2021-12-20'
-client: Awesome client
+client: By Sulagna Chatterjee
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  as part of my application assignments this year, I atomised a MIT technology
+  review article on a brain map created by google "a peta-voxel fragment of the
+  human cerebral cortex reconstructed at a subcellular resolution". The only
+  purpose of this semantic dissection is to understand what makes a piece of
+  science communication, great.
 featuredImage:
   type: ImageBlock
   url: /images/Artboard 3BGSL.jpg
