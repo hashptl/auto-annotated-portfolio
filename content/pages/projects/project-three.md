@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: We should all be polymaths
+title: ESSAY 2;
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
