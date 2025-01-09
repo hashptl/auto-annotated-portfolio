@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: ESSAY 3 ; The Gaia Hypothesis & Neri Oxman's Work
+title: ESSAY 3;
 colors: colors-a
 date: '2024-11-15'
 client: By Sulagna Chatterjee
