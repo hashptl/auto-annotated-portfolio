@@ -18,7 +18,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/IMG-20250109-WA0002.jpg
   altText: Project image
 ---
 
