@@ -9,7 +9,7 @@ description: >-
   review article on a brain map created by google "a peta-voxel fragment of the
   human cerebral cortex reconstructed at a subcellular resolution". The only
   purpose of this semantic dissection is to understand what makes a piece of
-  science communication great.
+  science communication, great.
 featuredImage:
   type: ImageBlock
   url: /images/Artboard 3BGSL.jpg
