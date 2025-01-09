@@ -12,7 +12,7 @@ description: >-
   science communication, great.
 featuredImage:
   type: ImageBlock
-  url: /images/Artboard 3BGSL.jpg
+  url: /images/IMG-20250109-WA0002.jpg
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
