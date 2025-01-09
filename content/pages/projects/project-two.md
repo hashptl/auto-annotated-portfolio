@@ -5,11 +5,11 @@ colors: colors-a
 date: '2021-12-20'
 client: By Sulagna Chatterjee
 description: >-
-  as part of one of my application assignments this year, I atomised a MIT
-  technology review article on a brain map created by google "a peta-voxel
-  fragment of the human cerebral cortex reconstructed at a subcellular
-  resolution". The only purpose of this semantic dissection is to understand
-  what makes a piece of science communication great.
+  as part of my application assignments this year, I atomised a MIT technology
+  review article on a brain map created by google "a peta-voxel fragment of the
+  human cerebral cortex reconstructed at a subcellular resolution". The only
+  purpose of this semantic dissection is to understand what makes a piece of
+  science communication great.
 featuredImage:
   type: ImageBlock
   url: /images/Artboard 3BGSL.jpg
