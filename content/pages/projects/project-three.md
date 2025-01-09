@@ -3,7 +3,7 @@ type: ProjectLayout
 title: ESSAY 2; Habermas Machine
 colors: colors-a
 date: '2022-01-22'
-client: Awesome client
+client: By Sulagna Chatterjee
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
   because I worked with an entire team :) but they definitely followed my lead
