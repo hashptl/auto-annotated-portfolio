@@ -1,6 +1,6 @@
 ---
 type: PostFeedLayout
-title: Blog
+title: 'Excerpts, Ideas & General Frenzy'
 colors: colors-a
 backgroundImage:
   type: BackgroundImage

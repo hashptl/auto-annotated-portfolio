@@ -10,17 +10,17 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
+                "label": "About Me",
                 "url": "/info"
             },
             {
                 "type": "Link",
-                "label": "Projects",
+                "label": "Essays",
                 "url": "/projects"
             },
             {
                 "type": "Image",
-                "label": "Images",
+                "label": "Concepts & Designs",
                 "url": "/images"
             },
             {
