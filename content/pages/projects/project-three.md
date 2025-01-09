@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: ESSAY 2; Habermas Machine
+title: ESSAY 2;        Habermas Machine
 colors: colors-a
 date: '2022-01-22'
 client: By Sulagna Chatterjee
