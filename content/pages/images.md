@@ -4,7 +4,9 @@ title: 'My Portfolio '
 sections:
   - type: MediaGallerySection
     title: Designs & Concepts
-    subtitle: This is the subtitle
+    subtitle: >-
+      Skailabs is a prospective learning engine operating on concept namely
+      "Rhizome" [Deleuze
     images:
       - type: ImageBlock
         url: /images/all knowledge dissipates into understanding.png
