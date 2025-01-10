@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/Artboard 10jeezwow.png
+  url: /images/GradientSLheader for substack.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
