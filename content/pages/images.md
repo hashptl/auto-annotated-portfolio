@@ -41,12 +41,12 @@ sections:
         caption: Image four caption
         elementId: ''
       - type: ImageBlock
-        url: /images/robotic arm for multi-appendage prototype with text.jpg
+        url: /images/skailabs supplemenatryOCT.png
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
-        url: /images/skailabs supplemenatryOCT.png
+        url: /images/robotic arm for multi-appendage prototype with text.jpg
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
