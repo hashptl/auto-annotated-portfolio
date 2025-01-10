@@ -7,7 +7,7 @@ sections:
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
-        url: /images/IMG-20250109-WA0002.jpg
+        url: /images/Artboard 3jeezwow.jpg
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
