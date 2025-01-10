@@ -7,7 +7,7 @@ sections:
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
-        url: /images/Artboard 3jeezwow.jpg
+        url: /images/all knowledge dissipates into understanding.png
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
