@@ -94,6 +94,7 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: ESSAYS ;
+    title: Words Permeate Us All
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
