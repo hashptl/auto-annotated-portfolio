@@ -6,12 +6,12 @@ sections:
     title: Designs & Concepts
     subtitle: >-
       SKAILABS is a prospective learning engine operating on the concept of
-      "Rhizome" [Deleuze & Guattari '75] I believe the strictness of operating
-      within one discipline is archaic and hinders true education. Intelligence
-      is fluid and therefore the method of learning should be such too. Skailabs
-      will be highly visual and filled with stories, here are some of the blue
-      prints and palettes.. from theory to sketch - the actual engine may be
-      quite different.
+      "Rhizome" [Deleuze & Guattari '75] I believe the constrictedness of
+      operating within one discipline is archaic and hinders true education.
+      Intelligence is fluid and therefore the method of learning should be such
+      too. Skailabs will be highly visual and filled with stories, here are some
+      of the blueprints and palettes.. from theory to sketch - the actual engine
+      may look quite different.
     images:
       - type: ImageBlock
         url: /images/all knowledge dissipates into understanding.png
