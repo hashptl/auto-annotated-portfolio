@@ -66,12 +66,12 @@ sections:
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
-        url: /images/BAUHAUS SL.webp
+        url: /images/skailabs supplemenatryOCT.png
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
-        url: /images/skailabs supplemenatryOCT.png
+        url: /images/BAUHAUS SL.webp
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
