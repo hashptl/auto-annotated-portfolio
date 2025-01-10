@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/Artboard 9KiRiMag Viz.jpg
+  url: /images/Artboard 4BGSL.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
