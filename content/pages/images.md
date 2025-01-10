@@ -81,12 +81,12 @@ sections:
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
-        url: /images/suplii.gif
+        url: /images/skailabs supplemenatryOCT.png
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
-        url: /images/skailabs supplemenatryOCT.png
+        url: /images/suplii.gif
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
