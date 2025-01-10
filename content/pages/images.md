@@ -76,9 +76,7 @@ sections:
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
-        url: >-
-          /images/Understanding the SKAILABS PERCEPTRON abstract for august
-          10thjeezwow.jpg
+        url: /images/ghost orchid.webp
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
