@@ -22,7 +22,7 @@ sections:
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-3.jpg
+        url: /images/original_9ebf9e0255ce93e0dd1202e585c303cb.gif
         altText: Image three
         caption: Image three caption
         elementId: ''
