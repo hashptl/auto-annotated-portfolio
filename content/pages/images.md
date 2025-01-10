@@ -14,12 +14,12 @@ sections:
       may look quite different.
     images:
       - type: ImageBlock
-        url: /images/all knowledge dissipates into understanding.png
+        url: /images/Artboard 7jeezwow.jpg
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
-        url: /images/Artboard 7jeezwow.jpg
+        url: /images/all knowledge dissipates into understanding.png
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
