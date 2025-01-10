@@ -17,7 +17,7 @@ media:
   url: /images/Article Cover Assignmenthm opt2.jpg
   altText: Project image
 ---
-> “Consensus is not merely procedural; it must embody the dignity of all participants.” The same must hold true for the machines we entrust to shape the future of not just discourse but possibly the future of everything.
+> “Consensus is not merely procedural; it must embody the dignity of all participants.” 
 
 On August 14, 2024, in an interview[\[1\]](https://youtu.be/pZybROKrj2Q?si=Pb7_VPBHdWEQWDAN) , Demis Hassabis, the CEO of Google DeepMind, says “It is impossible to include all preferences in one system because by definition, people don’t agree. We can see that in the current state of the world – countries don’t agree, governments don’t agree, we can’t even get agreement on obvious things like dealing with climate change.”
 
