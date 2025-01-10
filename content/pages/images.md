@@ -77,7 +77,8 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
+          /images/Understanding the SKAILABS PERCEPTRON abstract for august
+          10thjeezwow.jpg
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
