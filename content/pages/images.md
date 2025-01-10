@@ -3,7 +3,7 @@ type: PageLayout
 title: 'My Portfolio '
 sections:
   - type: MediaGallerySection
-    title: Portfolio
+    title: Designs & Concepts
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
