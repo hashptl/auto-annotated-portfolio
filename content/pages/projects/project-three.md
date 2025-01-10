@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: ESSAY 2; Habermas Machine
 colors: colors-a
-date: '2022-01-22'
+date: '2024-12-22'
 client: By Sulagna Chatterjee
 description: >-
   As part of my application assignments of 2024, I worked on a scientific
