@@ -7,7 +7,9 @@ client: By Sulagna Chatterjee
 description: >-
   As part of my application assignments of 2024, I worked on a scientific
   communication essay, enmeshing a large language model and the notoriously
-  complex concept of deliberation in democracy
+  complex concept of deliberation in democracy. Neutrality is important for
+  proper mediation but the sovereign goal is to reach agreement, can machine
+  learning help achieve this?
 featuredImage:
   type: ImageBlock
   url: /images/Article Cover Assignmenthm opt2.jpg
