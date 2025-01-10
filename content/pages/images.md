@@ -71,12 +71,12 @@ sections:
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
-        url: /images/Skailabs symbols library X an ebstract everydayjeezwow.jpg
+        url: /images/skailabs supplemenatryOCT.png
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
-        url: /images/skailabs supplemenatryOCT.png
+        url: /images/Skailabs symbols library X an ebstract everydayjeezwow.jpg
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
