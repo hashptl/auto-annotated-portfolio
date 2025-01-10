@@ -71,7 +71,7 @@ sections:
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
-        url: /images/SKAILABS arb1jeezwow.png
+        url: /images/Skailabs symbols library X an ebstract everydayjeezwow.jpg
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
