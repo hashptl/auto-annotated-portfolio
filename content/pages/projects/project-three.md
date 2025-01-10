@@ -5,9 +5,9 @@ colors: colors-a
 date: '2022-01-22'
 client: By Sulagna Chatterjee
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  As part of my application assignments of 2024, I worked on a scientific
+  communication essay, enmeshing a large language model and the notoriously
+  complex concept of deliberation in democracy
 featuredImage:
   type: ImageBlock
   url: /images/Article Cover Assignmenthm opt2.jpg
