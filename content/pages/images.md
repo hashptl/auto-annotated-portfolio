@@ -61,12 +61,12 @@ sections:
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
-        url: /images/Artboard 4jeezwow.jpg
+        url: /images/skailabs supplemenatryOCT.png
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
-        url: /images/skailabs supplemenatryOCT.png
+        url: /images/Artboard 4jeezwow.jpg
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
