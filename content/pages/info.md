@@ -196,7 +196,7 @@ sections:
       - type: Label
         label: Adobe Design Suite
       - type: Label
-        label: React
+        label: TouchDesigner
       - type: Label
         label: Microsoft Office
       - type: Label
