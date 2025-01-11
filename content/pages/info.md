@@ -14,14 +14,22 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >
-      I feel a prominent need to bring confounding scientific discoveries under
+      I feel a palpable need to bring confounding scientific discoveries under
       all available light, to people who see them as *arcane.* I do not know
       when exactly this started but I recall reading Stephen Jay Gould's 'The
       Mismeasure of Man' back in 9th grade, a clarion call experience, and there
       was this show called "Human Universe" by Brian Cox which I used to watch
-      every day as a kid, Going to a covert dome telescope on top of a mountain
-      for the first time with my brother's space research license - these are
-      all core memories that could offer a clue. To some extent, I have been 
+      every day as a kid, also going to a covert dome-telescope on top of a
+      mountain for the first time with my brother's space research license and
+      spotiing my first neutron star - these are all core memories that could
+      offer a clue. To an extent, I have been able to emulate this passion into
+      things that have a tangible impact on the world ; because I feel an innate
+      resposibility to future generations of thinkers and creators. My
+      unrelenting sense of purpose is better elicited in my desire for
+      "Cathedral Thinking". I think in a burning world which surveys a very
+      ambigious future of either transcendence or destruction - the importance
+      of science coverage is only going to increase by many orders of magnitude.
+      I intend on being at the very helm of it.
     media:
       type: ImageBlock
       url: /images/about.jpg
