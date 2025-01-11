@@ -4,7 +4,7 @@ title: I can operate on all of these platforms
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg4.jpg
+  url: /images/Artboard 2KiRiMag Viz.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
