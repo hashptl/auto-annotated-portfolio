@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      Hello! I am Sulagna, an alias coined by one of my professors -"Skai" is
+      Hello! I am Sulagna. an alias coined by one of my professors -"Skai" is
       what all my friends call me. 
     subtitle: ''
     styles:
