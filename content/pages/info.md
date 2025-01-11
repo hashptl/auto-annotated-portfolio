@@ -1,10 +1,10 @@
 ---
 type: PageLayout
-title: About
+title: I can operate on all of these platforms
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg4.jpg
+  url: '/images/AdobeStock_359454193 [Converted].jpg'
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -13,10 +13,23 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
-      ## Hey, I’m a scientific writer and transmedia designer from Mumbai. A
-      content executive and MIT Tech Review collaborator.
-
+    text: >
+      I feel a palpable need to bring confounding scientific discoveries under
+      all available light, to people who see them as *arcane.* I do not know
+      when exactly this started but I recall reading Stephen Jay Gould's 'The
+      Mismeasure of Man' back in 9th grade, a clarion call experience, and there
+      was this show called "Human Universe" by Brian Cox which I used to watch
+      every day as a kid, also going to a covert dome-telescope on top of a
+      mountain for the first time with my brother's space research license and
+      spotiing my first neutron star - these are all core memories that could
+      offer a clue. To an extent, I have been able to emulate this passion into
+      things that have a tangible impact on the world ; because I feel an innate
+      resposibility to future generations of thinkers and creators. My
+      unrelenting sense of purpose is better elicited in my desire for
+      "Cathedral Thinking". I think in a burning world which surveys a very
+      ambigious future of either transcendence or destruction - the importance
+      of science coverage is only going to increase by many orders of magnitude.
+      I intend on being at the very helm of it.
     media:
       type: ImageBlock
       url: /images/about.jpg
@@ -66,21 +79,9 @@ sections:
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
-        url: /images/logo2.svg
-        altText: Logo two
-        caption: Logo two
-      - type: ImageBlock
-        url: /images/logo3.svg
-        altText: Logo three
-        caption: Logo three
-      - type: ImageBlock
         url: /images/logo4.svg
         altText: Logo four
         caption: Logo four
-      - type: ImageBlock
-        url: /images/logo5.svg
-        altText: Logo five
-        caption: Logo five
     spacing: 3
     columns: 5
     aspectRatio: auto
@@ -203,24 +204,25 @@ sections:
         borderStyle: solid
   - type: LabelsSection
     colors: colors-f
-    subtitle: 'Skills:'
+    subtitle: I can operate on all of these platforms
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Adobe Design Suite
       - type: Label
-        label: React
+        label: TouchDesigner
       - type: Label
         label: Microsoft Office
       - type: Label
-        label: Next.js
+        label: Adobe Substance 3D
       - type: Label
         label: Netlify
       - type: Label
-        label: Pancakes
+        label: Garage Band
       - type: Label
         label: C++
       - type: Label
-        label: Swift
+        label: Figma
+    title: Tech Skills
   - type: DividerSection
     styles:
       self:
