@@ -204,7 +204,7 @@ sections:
       - type: Label
         label: Netlify
       - type: Label
-        label: Pancakes
+        label: Garage Band
       - type: Label
         label: C++
       - type: Label
