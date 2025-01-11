@@ -37,7 +37,6 @@ sections:
         borderColor: border-complementary
       title:
         textAlign: left
-        fontStyle: italic
       subtitle:
         textAlign: left
       text:
