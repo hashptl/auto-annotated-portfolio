@@ -191,7 +191,7 @@ sections:
         borderStyle: solid
   - type: LabelsSection
     colors: colors-f
-    subtitle: ''
+    subtitle: I can operate on all of these platforms
     items:
       - type: Label
         label: Adobe Design Suite
