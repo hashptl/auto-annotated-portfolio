@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: About
+title: I can operate on all of these platforms
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
