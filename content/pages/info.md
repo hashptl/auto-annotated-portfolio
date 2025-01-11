@@ -14,8 +14,10 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      ## Hey, I’m a scientific writer and transmedia designer from Mumbai. A
-      content executive and MIT Tech Review collaborator.
+      I feel a prominent need to bring confounding scientific discoveries under
+      all available light, to people who see them as *arcane.* I do not know
+      when exactly this started but I recall reading Stephen Jay Gould's 'The
+      Mismeasure of Man' back in 9th grade
 
     media:
       type: ImageBlock
