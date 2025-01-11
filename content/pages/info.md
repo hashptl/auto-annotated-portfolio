@@ -13,12 +13,15 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
+    text: >
       I feel a prominent need to bring confounding scientific discoveries under
       all available light, to people who see them as *arcane.* I do not know
       when exactly this started but I recall reading Stephen Jay Gould's 'The
-      Mismeasure of Man' back in 9th grade
-
+      Mismeasure of Man' back in 9th grade, a clarion call experience, and there
+      was this show called "Human Universe" by Brian Cox which I used to watch
+      every day as a kid, Going to a covert dome telescope on top of a mountain
+      for the first time with my brother's space research license - these are
+      all core memories that could offer a clue. To some extent, I have been 
     media:
       type: ImageBlock
       url: /images/about.jpg
