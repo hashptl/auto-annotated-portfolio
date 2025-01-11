@@ -66,10 +66,6 @@ sections:
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
-        url: /images/logo2.svg
-        altText: Logo two
-        caption: Logo two
-      - type: ImageBlock
         url: /images/logo4.svg
         altText: Logo four
         caption: Logo four
