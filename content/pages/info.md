@@ -194,7 +194,7 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Adobe Design Suite
       - type: Label
         label: React
       - type: Label
