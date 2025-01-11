@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/GradientSLheader for substack.png
+  url: /images/1 Homepage skl.gif
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
