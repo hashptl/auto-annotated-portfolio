@@ -209,6 +209,7 @@ sections:
         label: C++
       - type: Label
         label: Figma
+    title: Tech Skills
   - type: DividerSection
     styles:
       self:
