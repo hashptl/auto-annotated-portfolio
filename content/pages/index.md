@@ -25,7 +25,7 @@ sections:
       literary pieces. Additionally, I am deeply invested in understanding the
       impact of unrestrained technological progress, and planetary-scale data on
       the human civilization through a policymaking approach. Also skilled in
-      fashion technology, critique and building compelling brand narratives - i
+      fashion technology, critique and building compelling brand narratives - I
       intend on pulling strands from these disparate domains of learning and
       build something unique for posterity.
     styles:
