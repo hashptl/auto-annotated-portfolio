@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-e
-    backgroundSize: full
+    backgroundSize: inset
     text: >
       I feel a palpable need to bring confounding scientific discoveries under
       all available light, to people who see them as *arcane.* I do not know
