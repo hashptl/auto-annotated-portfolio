@@ -82,7 +82,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Learn more
+            label: Sulagna's LinkedIn
             altText: ''
             url: 'https://www.linkedin.com/in/sulagna-chatterjee-8b3862205/'
             showIcon: false
