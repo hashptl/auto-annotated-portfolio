@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: ESSAY 3; Gaia Hypothesis
-colors: colors-a
+colors: colors-b
 date: '2024-11-15'
 client: By Sulagna Chatterjee
 description: >-
