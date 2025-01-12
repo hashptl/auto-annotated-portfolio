@@ -24,14 +24,14 @@ sections:
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
-        url: /images/pstar.jpg
-        altText: Image two
-        caption: Image two caption
-        elementId: ''
-      - type: ImageBlock
         url: /images/original_9ebf9e0255ce93e0dd1202e585c303cb.gif
         altText: Image three
         caption: Image three caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/pstar.jpg
+        altText: Image two
+        caption: Image two caption
         elementId: ''
       - type: ImageBlock
         url: >-
