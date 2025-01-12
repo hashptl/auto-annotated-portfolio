@@ -47,7 +47,7 @@ sections:
     type: HeroSection
     actions: []
     text: >+
-      <div style="text-align: center">#### I am an interdisciplinary writer
+      <div style="text-align: center">##### I am an interdisciplinary writer
       \[focusing mostly on science journalism], multimedia designer and digital
       content specialist. I have studied media communications and philosophy of
       science & tech. Currently working as a digital content executive for a
