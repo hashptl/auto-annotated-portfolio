@@ -63,7 +63,7 @@ sections:
       learning and build something unique for posterity.</div>
 
   - type: TextSection
-    colors: colors-b
+    colors: colors-d
     variant: variant-b
     title: In this portfolio
     subtitle: you will find
