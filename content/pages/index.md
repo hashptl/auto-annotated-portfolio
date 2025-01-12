@@ -132,22 +132,22 @@ sections:
     title: FUTURISMO - MY COLLEGE PROJECT
     text: >+
       <div style="text-align: left">Stainslaw Lem, the revered polish science
-      fiction author wrote Summa Technologiae in 1964. The manuscript has
+      fiction author wrote *Summa Technologiae* in 1964. The manuscript has
       tremendous foresight given that most of the things prognosticated in the
       essays have become real objects and phenomena in the current era. Does
       fiction precede reality? does science manifest in what starts out as
-      impossible? Futurismo explores the human ingenuity behind creating the
+      *impossible*? Futurismo explores the human ingenuity behind creating the
       technologies of hereafter. There is an ongoing belief that nothing is
       impossible when viewed from the colossal time-scale of the universe
       itself. We may not have the computation infrastructure needed to solve the
       most complex mathematical paradoxes deemed "un-solvable" right now\.. but
-      there is no saying we can't do it when we have evolved into the
-      technological singularity. Conceived in 2021 and carrying stories ranging
-      from the book that led to the invention of the first pacemaker, interviews
-      from visionaries like Cho Gi Seok (Photographer), Robbie Barat
+      there is no saying we can't do it, many years later, when we have evolved
+      into the technological singularity. Conceived in 2021 and carrying stories
+      ranging from the book that led to the invention of the first pacemaker,
+      interviews from visionaries like Cho Gi Seok (Photographer), Robbie Barat
       (Bioinformatics researcher and artist at Stanford) and Yoon Ahn
       (Metaverse' first fashion designer and founder of "AMBUSH) Futurismo was
-      made in praise of prescience.</div>
+      made in praise of *prescience.*</div>
 
     actions:
       - type: Button
