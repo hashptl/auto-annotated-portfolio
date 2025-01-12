@@ -19,14 +19,14 @@ sections:
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
-        url: /images/all knowledge dissipates into understanding.png
-        altText: altText of the image
-        caption: Caption of the image
-        elementId: ''
-      - type: ImageBlock
         url: /images/original_9ebf9e0255ce93e0dd1202e585c303cb.gif
         altText: Image three
         caption: Image three caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/all knowledge dissipates into understanding.png
+        altText: altText of the image
+        caption: Caption of the image
         elementId: ''
       - type: ImageBlock
         url: /images/pstar.jpg
