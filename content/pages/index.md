@@ -146,7 +146,7 @@ sections:
       ranging from the book that led to the invention of the first pacemaker,
       interviews from visionaries like Cho Gi Seok (Photographer), Robbie Barat
       (Bioinformatics researcher and artist at Stanford) and Yoon Ahn
-      (Metaverse' first fashion designer and founder of "AMBUSH) Futurismo was
+      (Metaverse' first fashion designer and founder of "AMBUSH") Futurismo was
       made in praise of *prescience.*</div>
 
     actions:
