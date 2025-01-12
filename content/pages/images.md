@@ -71,12 +71,12 @@ sections:
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
-        url: /images/BAUHAUS SL.webp
+        url: /images/Artboard 9jeezwow.jpg
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
-        url: /images/Artboard 9jeezwow.jpg
+        url: /images/BAUHAUS SL.webp
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
