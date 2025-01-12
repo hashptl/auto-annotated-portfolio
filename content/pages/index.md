@@ -176,7 +176,7 @@ sections:
         justifyContent: center
         flexDirection: col
         borderRadius: xx-large
-        borderWidth: 1
+        borderWidth: 3
         borderColor: border-secondary
       title:
         textAlign: center
