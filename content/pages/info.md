@@ -96,7 +96,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Discord
+            label: Sulagna's Instagram
             url: 'https://discord.com/'
         styles:
           self:
