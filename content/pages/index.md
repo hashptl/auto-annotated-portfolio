@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     title: >-
       Hello! I am Sulagna. an alias coined by one of my professors -"Skai" is
       what all my friends call me. 
