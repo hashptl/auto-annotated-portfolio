@@ -1,38 +1,43 @@
 ---
 type: PageLayout
 title: I can operate on all of these platforms
-colors: colors-a
+colors: colors-c
 backgroundImage:
   type: BackgroundImage
-  url: '/images/AdobeStock_359454193 [Converted].jpg'
+  url: /images/GradientSLheader for substack.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    text: >
-      I feel a palpable need to bring confounding scientific discoveries under
-      all available light, to people who see them as *arcane.* I do not know
-      when exactly this started but I recall reading Stephen Jay Gould's 'The
-      Mismeasure of Man' back in 9th grade, a clarion call experience, and there
-      was this show called "Human Universe" by Brian Cox which I used to watch
-      every day as a kid, also going to a covert dome-telescope on top of a
-      mountain for the first time with my brother's space research license and
-      spotiing my first neutron star - these are all core memories that could
-      offer a clue. To an extent, I have been able to emulate this passion into
-      things that have a tangible impact on the world ; because I feel an innate
-      resposibility to future generations of thinkers and creators. My
-      unrelenting sense of purpose is better elicited in my desire for
-      "Cathedral Thinking". I think in a burning world which surveys a very
-      ambigious future of either transcendence or destruction - the importance
-      of science coverage is only going to increase by many orders of magnitude.
-      I intend on being at the very helm of it.
+    colors: colors-c
+    backgroundSize: inset
+    text: >+
+      <div style="text-align: left">I feel a palpable need to bring confounding
+      scientific discoveries under all available light, to people who see them
+      as arcane. I do not know when exactly this started but I recall reading
+      Stephen Jay Gould's 'The Mismeasure of Man' back in 9th grade, a clarion
+      call experience, and there was this show called "Human Universe" by Brian
+      Cox which I used to watch every day as a kid, also going to a covert
+      dome-telescope on top of a mountain for the first time with my brother's
+      space research license and spotting my first neutron star - these are all
+      core memories that could offer a clue. To an extent, I have been able to
+      emulate this passion into things that have a tangible impact on the world
+      ; because I feel an innate responsibility to future generations of
+      thinkers and creators. My unrelenting sense of purpose is better elicited
+      in my desire for "Cathedral Thinking". I think in a burning world which
+      surveys a very ambiguous future of either transcendence or destruction -
+      the importance of science coverage is only going to increase by many
+      orders of magnitude. ***I intend on being at the very helm of it.
+
+      ***
+
+      </div>
+
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/metask.jpeg
       altText: Hero image
     styles:
       self:
@@ -58,53 +63,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
-  - type: MediaGallerySection
-    colors: colors-f
-    subtitle: 'I worked with these folks:'
-    images:
-      - type: ImageBlock
-        url: /images/logo1.svg
-        altText: Logo one
-        caption: Logo one
-      - type: ImageBlock
-        url: /images/logo4.svg
-        altText: Logo four
-        caption: Logo four
-    spacing: 3
-    columns: 5
-    aspectRatio: auto
-    showCaption: false
-    enableHover: false
-    styles:
-      self:
-        width: wide
-        height: auto
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
+    title: Sulagna Chatterjee
   - type: DividerSection
     styles:
       self:
@@ -121,53 +80,87 @@ sections:
     colors: colors-f
     items:
       - type: FeaturedItem
-        actions:
-          - type: Link
-            label: GitHub
-            url: 'https://github.com/'
+        subtitle: 'Professional Experience:'
+        text: |+
+          **2022 - Present**
+
+          *   Full-Time Digital Marketing Executive at Meril Life Sciences
+
         styles:
           self:
             textAlign: left
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+      - type: FeaturedItem
+        subtitle: 'Education:'
+        text: |+
+          **2019-2022**
+
+          *   Media Student at Uni of Mumbai
+
+        styles:
+          self:
+            textAlign: left
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+    columns: 2
+    spacingX: 60
+    spacingY: 60
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-8
+          - pb-8
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderRadius: none
+        borderWidth: 0
+        borderStyle: none
+        borderColor: border-dark
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+  - type: FeaturedItemsSection
+    colors: colors-f
+    items:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
+            label: Sulagna's LinkedIn
+            altText: ''
+            url: 'https://www.linkedin.com/in/sulagna-chatterjee-8b3862205/'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
         styles:
           self:
             textAlign: left
+        title: ''
       - type: FeaturedItem
         actions:
           - type: Link
-            label: LinkedIn
-            url: 'https://www.linkedin.com/'
+            label: Sulagna's Instagram
+            url: 'https://www.instagram.com/kynozomi/'
         styles:
           self:
             textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Discord
-            url: 'https://discord.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Instagram
-            url: 'https://www.instagram.com/'
-        styles:
-          self:
-            textAlign: left
+        title: ''
     columns: 3
     spacingX: 120
     spacingY: 0
@@ -240,100 +233,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
-  - type: FeaturedItemsSection
-    colors: colors-f
-    items:
-      - type: FeaturedItem
-        subtitle: 'Experience:'
-        text: |-
-          **Current**
-
-          * freelance @freelance.me
-
-          **2018-2021**
-
-          * fullstack at this startup
-
-          **2015**
-
-          * senior front-end at this place
-
-          **2013**
-
-          * intern developer at a big company
-
-          **2011**
-
-          * flipping burgers
-        styles:
-          self:
-            textAlign: left
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-      - type: FeaturedItem
-        subtitle: 'Education:'
-        text: |-
-          **2015-2018**
-
-          * ba computer sciense at a semi fancy school
-
-          **2014**
-
-          * react certificate somewhere
-
-          **2011**
-
-          * my highschool
-        styles:
-          self:
-            textAlign: left
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-    columns: 2
-    spacingX: 60
-    spacingY: 60
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
+      [Sulagnachatterjee52018@gmail.com](mailto:thisismyemail.@myemail.me)
   - type: DividerSection
     styles:
       self:
@@ -348,7 +248,7 @@ sections:
         borderStyle: solid
   - type: ContactSection
     backgroundSize: full
-    title: "Let’s talk... \U0001F4AC"
+    title: Reach out to me
     colors: colors-f
     form:
       type: FormBlock
