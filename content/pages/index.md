@@ -135,7 +135,7 @@ sections:
       any layout and any screen.
     actions:
       - type: Button
-        label: Try it now
+        label: Take me to Futurismo
         altText: ''
         url: /
         showIcon: true
