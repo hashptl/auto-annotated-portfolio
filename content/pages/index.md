@@ -129,7 +129,7 @@ sections:
     subtitle: ESSAYS ;
     title: Words Permeate Us All
   - type: CtaSection
-    title: Let's do this
+    title: FINAL- YEAR PROJECT
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
