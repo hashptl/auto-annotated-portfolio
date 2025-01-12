@@ -191,7 +191,7 @@ sections:
     colors: colors-f
     items:
       - type: FeaturedItem
-        subtitle: 'Experience:'
+        subtitle: 'Professional Experience:'
         text: |+
           **Current**
 
