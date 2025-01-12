@@ -1,0 +1,487 @@
+{
+    "model": "PageLayout",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Final about me",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "website layout"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "_filePath_slug": "info",
+                "title": "I can operate on all of these platforms",
+                "sections": [
+                    {
+                        "$$type": "HeroSection",
+                        "title": "Sulagna Chatterjee",
+                        "subtitle": null,
+                        "text": "<div style=\"text-align: left\">I feel a palpable need to bring confounding scientific discoveries under all available light, to people who see them as arcane. I do not know when exactly this started but I recall reading Stephen Jay Gould's 'The Mismeasure of Man' back in 9th grade, a clarion call experience, and there was this show called \"Human Universe\" by Brian Cox which I used to watch every day as a kid, also going to a covert dome-telescope on top of a mountain for the first time with my brother's space research license and spotting my first neutron star - these are all core memories that could offer a clue. To an extent, I have been able to emulate this passion into things that have a tangible impact on the world ; because I feel an innate responsibility to future generations of thinkers and creators. My unrelenting sense of purpose is better elicited in my desire for \"Cathedral Thinking\". I think in a burning world which surveys a very ambiguous future of either transcendence or destruction - the importance of science coverage is only going to increase by many orders of magnitude. ***I intend on being at the very helm of it.\n***\n</div>\n\n",
+                        "actions": [],
+                        "media": {
+                            "$$type": "ImageBlock",
+                            "url": {
+                                "$$ref": "stackbit_asset_id:static:public/images/metask.jpeg",
+                                "$$type": "__asset_model"
+                            },
+                            "altText": "Hero image",
+                            "caption": null,
+                            "elementId": null
+                        },
+                        "colors": "colors-c",
+                        "backgroundSize": "inset",
+                        "elementId": "",
+                        "styles": {
+                            "self": {
+                                "height": "auto",
+                                "width": "wide",
+                                "margin": [
+                                    "mt-0",
+                                    "mb-0",
+                                    "ml-0",
+                                    "mr-0"
+                                ],
+                                "padding": [
+                                    "pt-16",
+                                    "pb-12",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
+                                "justifyContent": "center"
+                            },
+                            "title": {
+                                "textAlign": "left"
+                            },
+                            "subtitle": {
+                                "textAlign": "left"
+                            },
+                            "text": {
+                                "textAlign": "left"
+                            },
+                            "actions": {
+                                "justifyContent": "flex-start"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "DividerSection",
+                        "title": null,
+                        "elementId": null,
+                        "styles": {
+                            "self": {
+                                "width": "wide",
+                                "padding": [
+                                    "pt-8",
+                                    "pb-8",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
+                                "justifyContent": "center",
+                                "borderWidth": 1,
+                                "borderStyle": "solid"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedItemsSection",
+                        "title": null,
+                        "subtitle": null,
+                        "items": [
+                            {
+                                "$$type": "FeaturedItem",
+                                "title": null,
+                                "subtitle": "Professional Experience:",
+                                "text": "**2022 - Present**\n\n*   Full-Time Digital Marketing Executive at Meril Life Sciences\n\n",
+                                "featuredImage": null,
+                                "actions": [],
+                                "elementId": null,
+                                "styles": {
+                                    "self": {
+                                        "textAlign": "left",
+                                        "padding": [
+                                            "pt-0",
+                                            "pl-0",
+                                            "pb-0",
+                                            "pr-0"
+                                        ]
+                                    }
+                                }
+                            },
+                            {
+                                "$$type": "FeaturedItem",
+                                "title": null,
+                                "subtitle": "Education:",
+                                "text": "**2019-2022**\n\n*   Media Student at Uni of Mumbai\n\n",
+                                "featuredImage": null,
+                                "actions": [],
+                                "elementId": null,
+                                "styles": {
+                                    "self": {
+                                        "textAlign": "left",
+                                        "padding": [
+                                            "pt-0",
+                                            "pl-0",
+                                            "pb-0",
+                                            "pr-0"
+                                        ]
+                                    }
+                                }
+                            }
+                        ],
+                        "actions": [],
+                        "colors": "colors-f",
+                        "columns": 2,
+                        "spacingX": 60,
+                        "spacingY": 60,
+                        "elementId": null,
+                        "styles": {
+                            "self": {
+                                "height": "auto",
+                                "width": "wide",
+                                "margin": [
+                                    "mt-0",
+                                    "mb-0",
+                                    "ml-0",
+                                    "mr-0"
+                                ],
+                                "padding": [
+                                    "pt-8",
+                                    "pb-8",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
+                                "justifyContent": "center",
+                                "borderRadius": "none",
+                                "borderWidth": 0,
+                                "borderStyle": "none",
+                                "borderColor": "border-dark"
+                            },
+                            "title": {
+                                "textAlign": "left"
+                            },
+                            "subtitle": {
+                                "textAlign": "left"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedItemsSection",
+                        "title": null,
+                        "subtitle": "You can find me here:",
+                        "items": [
+                            {
+                                "$$type": "FeaturedItem",
+                                "title": "",
+                                "subtitle": null,
+                                "text": null,
+                                "featuredImage": null,
+                                "actions": [
+                                    {
+                                        "$$type": "Link",
+                                        "label": "Sulagna's LinkedIn",
+                                        "altText": "",
+                                        "url": "https://www.linkedin.com/in/sulagna-chatterjee-8b3862205/",
+                                        "showIcon": false,
+                                        "icon": "arrowRight",
+                                        "iconPosition": "right",
+                                        "elementId": ""
+                                    }
+                                ],
+                                "elementId": null,
+                                "styles": {
+                                    "self": {
+                                        "textAlign": "left"
+                                    }
+                                }
+                            },
+                            {
+                                "$$type": "FeaturedItem",
+                                "title": "",
+                                "subtitle": null,
+                                "text": null,
+                                "featuredImage": null,
+                                "actions": [
+                                    {
+                                        "$$type": "Link",
+                                        "label": "Sulagna's Instagram",
+                                        "altText": null,
+                                        "url": "https://www.instagram.com/kynozomi/",
+                                        "showIcon": null,
+                                        "icon": null,
+                                        "iconPosition": null,
+                                        "elementId": null
+                                    }
+                                ],
+                                "elementId": null,
+                                "styles": {
+                                    "self": {
+                                        "textAlign": "left"
+                                    }
+                                }
+                            }
+                        ],
+                        "actions": [],
+                        "colors": "colors-f",
+                        "columns": 3,
+                        "spacingX": 120,
+                        "spacingY": 0,
+                        "elementId": null,
+                        "styles": {
+                            "self": {
+                                "height": "auto",
+                                "width": "wide",
+                                "padding": [
+                                    "pt-8",
+                                    "pb-8",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
+                                "justifyContent": "center",
+                                "borderRadius": "none",
+                                "borderWidth": 0,
+                                "borderStyle": "none",
+                                "borderColor": "border-dark"
+                            },
+                            "title": {
+                                "textAlign": "left"
+                            },
+                            "subtitle": {
+                                "textAlign": "left"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "DividerSection",
+                        "title": null,
+                        "elementId": null,
+                        "styles": {
+                            "self": {
+                                "width": "wide",
+                                "padding": [
+                                    "pt-12",
+                                    "pb-12",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
+                                "justifyContent": "center",
+                                "borderWidth": 1,
+                                "borderStyle": "solid"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "LabelsSection",
+                        "title": "Tech Skills",
+                        "subtitle": "I can operate on all of these platforms",
+                        "items": [
+                            {
+                                "$$type": "Label",
+                                "label": "Adobe Design Suite",
+                                "url": null
+                            },
+                            {
+                                "$$type": "Label",
+                                "label": "TouchDesigner",
+                                "url": null
+                            },
+                            {
+                                "$$type": "Label",
+                                "label": "Microsoft Office",
+                                "url": null
+                            },
+                            {
+                                "$$type": "Label",
+                                "label": "Adobe Substance 3D",
+                                "url": null
+                            },
+                            {
+                                "$$type": "Label",
+                                "label": "Netlify",
+                                "url": null
+                            },
+                            {
+                                "$$type": "Label",
+                                "label": "Garage Band",
+                                "url": null
+                            },
+                            {
+                                "$$type": "Label",
+                                "label": "C++",
+                                "url": null
+                            },
+                            {
+                                "$$type": "Label",
+                                "label": "Figma",
+                                "url": null
+                            }
+                        ],
+                        "colors": "colors-f",
+                        "elementId": null,
+                        "styles": null
+                    },
+                    {
+                        "$$type": "DividerSection",
+                        "title": null,
+                        "elementId": null,
+                        "styles": {
+                            "self": {
+                                "width": "wide",
+                                "padding": [
+                                    "pt-12",
+                                    "pb-12",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
+                                "justifyContent": "center",
+                                "borderWidth": 1,
+                                "borderStyle": "solid"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "TextSection",
+                        "colors": "colors-f",
+                        "variant": "variant-a",
+                        "title": null,
+                        "subtitle": "Contact:",
+                        "text": "[Sulagnachatterjee52018@gmail.com](mailto:thisismyemail.@myemail.me)\n",
+                        "elementId": null,
+                        "styles": null
+                    },
+                    {
+                        "$$type": "DividerSection",
+                        "title": null,
+                        "elementId": null,
+                        "styles": {
+                            "self": {
+                                "width": "wide",
+                                "padding": [
+                                    "pt-12",
+                                    "pb-12",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
+                                "justifyContent": "center",
+                                "borderWidth": 1,
+                                "borderStyle": "solid"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "ContactSection",
+                        "title": "Reach out to me",
+                        "text": null,
+                        "form": {
+                            "$$type": "FormBlock",
+                            "title": null,
+                            "fields": [
+                                {
+                                    "$$type": "TextFormControl",
+                                    "name": "firstName",
+                                    "label": "First Name",
+                                    "hideLabel": true,
+                                    "placeholder": "First Name",
+                                    "width": "1/2",
+                                    "isRequired": true
+                                },
+                                {
+                                    "$$type": "TextFormControl",
+                                    "name": "lastName",
+                                    "label": "Last Name",
+                                    "hideLabel": true,
+                                    "placeholder": "Last Name",
+                                    "width": "1/2",
+                                    "isRequired": false
+                                },
+                                {
+                                    "$$type": "EmailFormControl",
+                                    "name": "email",
+                                    "label": "Email",
+                                    "hideLabel": true,
+                                    "placeholder": "Email",
+                                    "width": "full",
+                                    "isRequired": true
+                                },
+                                {
+                                    "$$type": "TextareaFormControl",
+                                    "name": "message",
+                                    "label": "Message",
+                                    "hideLabel": true,
+                                    "placeholder": "Tell me about your project",
+                                    "width": "full",
+                                    "isRequired": true
+                                },
+                                {
+                                    "$$type": "CheckboxFormControl",
+                                    "name": "updatesConsent",
+                                    "label": "Sign me up to recieve my words",
+                                    "width": "full",
+                                    "isRequired": false
+                                }
+                            ],
+                            "submitLabel": "Submit 🚀",
+                            "elementId": "sign-up-form",
+                            "styles": {
+                                "submitLabel": {
+                                    "textAlign": "center"
+                                }
+                            }
+                        },
+                        "media": null,
+                        "colors": "colors-f",
+                        "backgroundSize": "full",
+                        "elementId": null,
+                        "styles": {
+                            "self": {
+                                "height": "auto",
+                                "width": "narrow",
+                                "margin": [
+                                    "mt-0",
+                                    "mb-0",
+                                    "ml-4",
+                                    "mr-4"
+                                ],
+                                "padding": [
+                                    "pt-12",
+                                    "pb-12",
+                                    "pr-4",
+                                    "pl-4"
+                                ],
+                                "alignItems": "center",
+                                "justifyContent": "center",
+                                "flexDirection": "row"
+                            },
+                            "title": {
+                                "textAlign": "left"
+                            },
+                            "text": {
+                                "textAlign": "left"
+                            }
+                        }
+                    }
+                ],
+                "metaTitle": null,
+                "metaDescription": null,
+                "addTitleSuffix": null,
+                "socialImage": null,
+                "metaTags": [],
+                "colors": "colors-c",
+                "backgroundImage": {
+                    "$$type": "BackgroundImage",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/GradientSLheader for substack.png",
+                        "$$type": "__asset_model"
+                    },
+                    "backgroundSize": "cover",
+                    "backgroundPosition": "center",
+                    "backgroundRepeat": "no-repeat",
+                    "opacity": 75
+                }
+            }
+        }
+    ]
+}
