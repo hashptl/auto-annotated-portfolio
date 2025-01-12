@@ -32,7 +32,7 @@ sections:
       I intend on being at the very helm of it.
     media:
       type: ImageBlock
-      url: /images/Artboard 10jeezwow.png
+      url: /images/metask.jpeg
       altText: Hero image
     styles:
       self:
