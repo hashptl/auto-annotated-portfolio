@@ -193,7 +193,7 @@ sections:
       - type: FeaturedItem
         subtitle: 'Professional Experience:'
         text: |+
-          **Current**
+          **2022 - Present**
 
           *   Full-Time Digital Marketing Executive at Meril Life
 
