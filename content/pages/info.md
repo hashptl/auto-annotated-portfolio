@@ -80,54 +80,6 @@ sections:
     colors: colors-f
     items:
       - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Sulagna's LinkedIn
-            altText: ''
-            url: 'https://www.linkedin.com/in/sulagna-chatterjee-8b3862205/'
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            elementId: ''
-        styles:
-          self:
-            textAlign: left
-        title: ''
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Sulagna's Instagram
-            url: 'https://www.instagram.com/kynozomi/'
-        styles:
-          self:
-            textAlign: left
-        title: ''
-    columns: 3
-    spacingX: 120
-    spacingY: 0
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-    subtitle: 'You can find me here:'
-  - type: FeaturedItemsSection
-    colors: colors-f
-    items:
-      - type: FeaturedItem
         subtitle: 'Professional Experience:'
         text: |+
           **2022 - Present**
@@ -183,6 +135,54 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
+  - type: FeaturedItemsSection
+    colors: colors-f
+    items:
+      - type: FeaturedItem
+        actions:
+          - type: Link
+            label: Sulagna's LinkedIn
+            altText: ''
+            url: 'https://www.linkedin.com/in/sulagna-chatterjee-8b3862205/'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
+        styles:
+          self:
+            textAlign: left
+        title: ''
+      - type: FeaturedItem
+        actions:
+          - type: Link
+            label: Sulagna's Instagram
+            url: 'https://www.instagram.com/kynozomi/'
+        styles:
+          self:
+            textAlign: left
+        title: ''
+    columns: 3
+    spacingX: 120
+    spacingY: 0
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-8
+          - pb-8
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderRadius: none
+        borderWidth: 0
+        borderStyle: none
+        borderColor: border-dark
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+    subtitle: 'You can find me here:'
   - type: DividerSection
     styles:
       self:
