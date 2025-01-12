@@ -69,7 +69,8 @@ sections:
     subtitle: you will find
     text: >
       My writing samples, a few designs, prototypes, my final year college
-      project from 2022, a section about me, an unusual amount of truisms
+      project from 2022, a section about me, an unusual amount of truisms and
+      occasionally a few things that have inspired me.
     elementId: ''
     styles:
       self:
