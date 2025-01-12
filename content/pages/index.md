@@ -129,7 +129,7 @@ sections:
     subtitle: ESSAYS ;
     title: Words Permeate Us All
   - type: CtaSection
-    title: FINAL- YEAR PROJECT
+    title: FUTURISMO - MY COLLEGE PROJECT
     text: >+
       <div style="text-align: left">Stainslaw Lem, the revered polish science
       fiction author wrote Summa Technologiae in 1964. The manuscript has
