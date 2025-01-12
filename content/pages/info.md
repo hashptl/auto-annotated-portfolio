@@ -4,7 +4,7 @@ title: I can operate on all of these platforms
 colors: colors-c
 backgroundImage:
   type: BackgroundImage
-  url: '/images/AdobeStock_359454193 [Converted].jpg'
+  url: /images/GradientSLheader for substack.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
