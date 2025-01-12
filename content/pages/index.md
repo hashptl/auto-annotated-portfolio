@@ -138,8 +138,10 @@ sections:
         label: Take me to Futurismo
         altText: ''
         url: >-
-          <object data="your_pdf_file_url" type="application/pdf"
-          width="your_width" height="your_height"></object>
+          <object
+          data="https://drive.google.com/file/d/19gdvkICb9mKTgcyl7W-sretn6G0HgIHJ/view?usp=sharing"
+          type="application/pdf" width="your_width"
+          height="your_height"></object>
         showIcon: true
         icon: arrowRight
         iconPosition: right
