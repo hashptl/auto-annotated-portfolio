@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     title: >-
       Hello! I am Sulagna. an alias coined by one of my professors -"Skai" is
       what all my friends call me. 
@@ -36,7 +36,7 @@ sections:
         flexDirection: row-reverse
         borderColor: border-complementary
       title:
-        textAlign: center
+        textAlign: left
         fontWeight: 400
       subtitle:
         textAlign: left
@@ -47,12 +47,12 @@ sections:
     type: HeroSection
     actions: []
     text: >+
-      <div style="text-align: center">##### I am an interdisciplinary writer
+      <div style="text-align: left">##### I am an interdisciplinary writer
       \[focusing mostly on science journalism], multimedia designer and digital
       content specialist. I have studied media communications and philosophy of
       science & tech. Currently working as a digital content executive for a
       global MedTech company where I translate complex scientific literature
-      into accessible narrative, I am also studying policymaking. I am most
+      into accessible narratives, I am also studying policymaking. I am most
       interested in finding ways to enable "rhizomatic" thinking through
       materials such as interactive softwares, films, digital artefacts and
       literary pieces. Additionally, I am deeply invested in understanding the
@@ -60,9 +60,34 @@ sections:
       civilization through a strategic and cathedral-thinking approach. Also
       skilled in fashion technology, critique and building compelling brand
       languages - I intend on pulling strands from these disparate domains of
-      learning and build something unique for
-      posterity.![](https://preview--skailabs-2eee7.stackbit.dev/_static/app-assets/public/images/GradientSLheader%20for%20substack.png)</div>
+      learning and build something unique for posterity.</div>
 
+  - type: TextSection
+    colors: colors-d
+    variant: variant-b
+    title: In this portfolio
+    subtitle: you will find
+    text: >
+      My writing samples, a few designs, prototypes, my final year college
+      project from 2022, a section about me, an unusual amount of truisms and
+      occasionally a few things that have inspired me.
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -103,6 +128,62 @@ sections:
         justifyContent: flex-end
     subtitle: ESSAYS ;
     title: Words Permeate Us All
+  - type: CtaSection
+    title: FUTURISMO - MY COLLEGE PROJECT
+    text: >+
+      <div style="text-align: left">Stainslaw Lem, the polish science fiction
+      author wrote *Summa Technologiae* in 1964. The manuscript has tremendous
+      foresight given that most of the things prognosticated in the essays have
+      become real objects and phenomena in the current era. Does fiction precede
+      reality? does science manifest in what starts out as *impossible*?
+      Futurismo explores the human ingenuity behind creating the technologies of
+      hereafter. There is an ongoing belief that nothing is impossible when
+      viewed from the colossal time-scale of the universe itself. We may not
+      have the computation infrastructure needed to solve the most complex
+      mathematical paradoxes deemed "un-solvable" right now\.. but there is no
+      saying we can't do it, many years later, when we have evolved into the
+      technological singularity. Conceived in 2021 and carrying stories ranging
+      from the book that led to the invention of the first pacemaker, interviews
+      from visionaries like Cho Gi Seok (Photographer), Robbie Barat
+      (Bioinformatics researcher and artist at Stanford) and Yoon Ahn
+      (Metaverse' first fashion designer and founder of "AMBUSH") Futurismo was
+      made in praise of *prescience.*</div>
+
+    actions:
+      - type: Button
+        label: Take me to Futurismo
+        altText: ''
+        url: >-
+          https://drive.google.com/file/d/19gdvkICb9mKTgcyl7W-sretn6G0HgIHJ/view?usp=sharing
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    colors: colors-e
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: col
+        borderRadius: xx-large
+        borderWidth: 3
+        borderColor: border-secondary
+      title:
+        textAlign: center
+      text:
+        textAlign: center
+      actions:
+        justifyContent: center
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
@@ -148,7 +229,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: Let's talk
     form:
       type: FormBlock
       elementId: sign-up-form

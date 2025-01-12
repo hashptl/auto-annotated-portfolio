@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: ESSAY 3; Gaia Hypothesis
-colors: colors-a
+colors: colors-b
 date: '2024-11-15'
 client: By Sulagna Chatterjee
 description: >-
@@ -16,7 +16,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/1 Homepage skl.gif
   altText: Project image
 ---
 
