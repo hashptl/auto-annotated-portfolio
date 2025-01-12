@@ -175,7 +175,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: col
-        borderRadius: medium
+        borderRadius: xx-large
         borderWidth: 1
         borderColor: border-secondary
       title:
