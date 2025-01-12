@@ -101,7 +101,7 @@ sections:
         styles:
           self:
             textAlign: left
-        title: Sulagna's Instagram
+        title: '*'
     columns: 3
     spacingX: 120
     spacingY: 0
