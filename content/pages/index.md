@@ -137,7 +137,9 @@ sections:
       - type: Button
         label: Take me to Futurismo
         altText: ''
-        url: /
+        url: >-
+          <object data="your_pdf_file_url" type="application/pdf"
+          width="your_width" height="your_height"></object>
         showIcon: true
         icon: arrowRight
         iconPosition: right
