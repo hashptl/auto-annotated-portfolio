@@ -131,7 +131,7 @@ sections:
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/Artboard 10KiRiMag Viz.jpg
         altText: Image one
         caption: Image one caption
         elementId: ''
