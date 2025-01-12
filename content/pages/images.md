@@ -132,7 +132,7 @@ sections:
       Kiri 霞 is "fog" in japanese. With the central theme as "A thick fog
       surrounds us all" Kiri Mag is a prospective SciComm project like Kathy
       Keeton's "OMNI Magazine" and aims to explain science that dissolves
-      darkness, superstition or ignorance through staunch scientific evidence.
+      darkness, superstition or ignorance through staunch evidence and truth.
     images:
       - type: ImageBlock
         url: /images/Artboard 10KiRiMag Viz.jpg
