@@ -36,7 +36,7 @@ sections:
         flexDirection: row-reverse
         borderColor: border-complementary
       title:
-        textAlign: center
+        textAlign: left
         fontWeight: 400
       subtitle:
         textAlign: left
