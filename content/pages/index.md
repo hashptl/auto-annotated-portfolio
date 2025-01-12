@@ -52,7 +52,7 @@ sections:
       content specialist. I have studied media communications and philosophy of
       science & tech. Currently working as a digital content executive for a
       global MedTech company where I translate complex scientific literature
-      into accessible narrative, I am also studying policymaking. I am most
+      into accessible narratives, I am also studying policymaking. I am most
       interested in finding ways to enable "rhizomatic" thinking through
       materials such as interactive softwares, films, digital artefacts and
       literary pieces. Additionally, I am deeply invested in understanding the
