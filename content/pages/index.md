@@ -47,7 +47,7 @@ sections:
     type: HeroSection
     actions: []
     text: >+
-      <div style="text-align: center">##### I am an interdisciplinary writer
+      <div style="text-align: center">I am an interdisciplinary writer
       \[focusing mostly on science journalism], multimedia designer and digital
       content specialist. I have studied media communications and philosophy of
       science & tech. Currently working as a digital content executive for a
@@ -60,8 +60,7 @@ sections:
       civilization through a strategic and cathedral-thinking approach. Also
       skilled in fashion technology, critique and building compelling brand
       languages - I intend on pulling strands from these disparate domains of
-      learning and build something unique for
-      posterity.![](https://preview--skailabs-2eee7.stackbit.dev/_static/app-assets/public/images/GradientSLheader%20for%20substack.png)</div>
+      learning and build something unique for posterity.</div>
 
   - colors: colors-f
     type: FeaturedProjectsSection
