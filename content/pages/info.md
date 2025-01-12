@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-e
+    colors: colors-c
     backgroundSize: inset
     text: >+
       <div style="text-align: left">I feel a palpable need to bring confounding
