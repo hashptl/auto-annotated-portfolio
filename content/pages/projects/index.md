@@ -4,7 +4,7 @@ title: Projects
 colors: colors-c
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/Artboard 2BGSL.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
