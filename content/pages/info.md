@@ -13,23 +13,28 @@ sections:
   - elementId: ''
     colors: colors-e
     backgroundSize: inset
-    text: >
-      I feel a palpable need to bring confounding scientific discoveries under
-      all available light, to people who see them as *arcane.* I do not know
-      when exactly this started but I recall reading Stephen Jay Gould's 'The
-      Mismeasure of Man' back in 9th grade, a clarion call experience, and there
-      was this show called "Human Universe" by Brian Cox which I used to watch
-      every day as a kid, also going to a covert dome-telescope on top of a
-      mountain for the first time with my brother's space research license and
-      spotiing my first neutron star - these are all core memories that could
-      offer a clue. To an extent, I have been able to emulate this passion into
-      things that have a tangible impact on the world ; because I feel an innate
-      resposibility to future generations of thinkers and creators. My
-      unrelenting sense of purpose is better elicited in my desire for
-      "Cathedral Thinking". I think in a burning world which surveys a very
-      ambigious future of either transcendence or destruction - the importance
-      of science coverage is only going to increase by many orders of magnitude.
-      I intend on being at the very helm of it.
+    text: >+
+      <div style="text-align: left">I feel a palpable need to bring confounding
+      scientific discoveries under all available light, to people who see them
+      as arcane. I do not know when exactly this started but I recall reading
+      Stephen Jay Gould's 'The Mismeasure of Man' back in 9th grade, a clarion
+      call experience, and there was this show called "Human Universe" by Brian
+      Cox which I used to watch every day as a kid, also going to a covert
+      dome-telescope on top of a mountain for the first time with my brother's
+      space research license and spotting my first neutron star - these are all
+      core memories that could offer a clue. To an extent, I have been able to
+      emulate this passion into things that have a tangible impact on the world
+      ; because I feel an innate responsibility to future generations of
+      thinkers and creators. My unrelenting sense of purpose is better elicited
+      in my desire for "Cathedral Thinking". I think in a burning world which
+      surveys a very ambiguous future of either transcendence or destruction -
+      the importance of science coverage is only going to increase by many
+      orders of magnitude. ***I intend on being at the very helm of it.
+
+      ***
+
+      </div>
+
     media:
       type: ImageBlock
       url: /images/metask.jpeg
