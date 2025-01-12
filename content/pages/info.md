@@ -58,6 +58,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
+    title: Sulagna Chatterjee
   - type: DividerSection
     styles:
       self:
