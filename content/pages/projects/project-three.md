@@ -23,7 +23,7 @@ backgroundImage:
   url: /images/bg2.jpg
   backgroundSize: cover
   backgroundPosition: center
-  backgroundRepeat: repeat-y
+  backgroundRepeat: no-repeat
   opacity: 100
 ---
 > “Consensus is not merely procedural; it must embody the dignity of all participants.” 
