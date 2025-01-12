@@ -177,6 +177,7 @@ sections:
         flexDirection: col
         borderRadius: medium
         borderWidth: 1
+        borderColor: border-secondary
       title:
         textAlign: center
       text:
