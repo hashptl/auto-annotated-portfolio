@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-c
+    colors: colors-e
     backgroundSize: full
     title: >-
       Hello! I am Sulagna. an alias coined by one of my professors -"Skai" is
