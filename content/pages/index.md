@@ -88,7 +88,7 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - colors: colors-f
+  - colors: colors-c
     type: FeaturedProjectsSection
     elementId: ''
     actions:
