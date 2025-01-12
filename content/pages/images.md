@@ -136,7 +136,7 @@ sections:
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-2.jpg
+        url: /images/Artboard 1KiRiMag Viz.jpg
         altText: Image two
         caption: Image two caption
         elementId: ''
