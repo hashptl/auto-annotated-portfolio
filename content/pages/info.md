@@ -92,7 +92,7 @@ sections:
         styles:
           self:
             textAlign: left
-        title: Linkedin
+        title: ''
       - type: FeaturedItem
         actions:
           - type: Link
