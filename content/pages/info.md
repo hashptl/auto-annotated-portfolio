@@ -84,6 +84,14 @@ sections:
           - type: Link
             label: LinkedIn
             url: 'https://www.linkedin.com/'
+          - type: Link
+            label: Learn more
+            altText: ''
+            url: 'https://www.linkedin.com/in/sulagna-chatterjee-8b3862205/'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
         styles:
           self:
             textAlign: left
