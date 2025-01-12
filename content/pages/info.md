@@ -97,7 +97,7 @@ sections:
         actions:
           - type: Link
             label: Sulagna's Instagram
-            url: 'https://discord.com/'
+            url: 'https://www.instagram.com/kynozomi/'
         styles:
           self:
             textAlign: left
