@@ -84,7 +84,7 @@ sections:
         text: |+
           **2022 - Present**
 
-          *   Full-Time Digital Marketing Executive at Meril Life
+          *   Full-Time Digital Marketing Executive at Meril Life Sciences
 
         styles:
           self:
