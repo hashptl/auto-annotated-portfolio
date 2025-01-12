@@ -1,7 +1,7 @@
 ---
 type: PageLayout
 title: I can operate on all of these platforms
-colors: colors-a
+colors: colors-c
 backgroundImage:
   type: BackgroundImage
   url: '/images/AdobeStock_359454193 [Converted].jpg'
