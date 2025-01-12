@@ -1,10 +1,10 @@
 ---
 type: ProjectFeedLayout
 title: Projects
-colors: colors-a
+colors: colors-c
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/Artboard 2BGSL.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -31,7 +31,7 @@ styles:
 bottomSections:
   - type: ContactSection
     backgroundSize: full
-    title: "Let’s talk... \U0001F4AC"
+    title: Let’s talk
     colors: colors-f
     form:
       type: FormBlock
