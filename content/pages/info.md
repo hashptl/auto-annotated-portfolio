@@ -207,18 +207,11 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: |+
+          **2019-2022**
 
-          * ba computer sciense at a semi fancy school
+          *   Media Student at Uni of Mumbai
 
-          **2014**
-
-          * react certificate somewhere
-
-          **2011**
-
-          * my highschool
         styles:
           self:
             textAlign: left
