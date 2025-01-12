@@ -67,13 +67,9 @@ sections:
     variant: variant-b
     title: In this portfolio
     subtitle: you will find
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >
+      My writing samples, a few designs, prototypes, my final year college
+      project from 2022, a section about me, an unusual amount of truisms
     elementId: ''
     styles:
       self:
