@@ -66,12 +66,12 @@ sections:
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
-        url: /images/SKaichip2.webp
+        url: /images/Artboard 4jeezwow.jpg
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
-        url: /images/Artboard 4jeezwow.jpg
+        url: /images/SKaichip2.webp
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
