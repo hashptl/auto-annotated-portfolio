@@ -136,6 +136,27 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
+  - type: LabelsSection
+    colors: colors-f
+    subtitle: I can operate on all of these platforms
+    items:
+      - type: Label
+        label: Adobe Design Suite
+      - type: Label
+        label: TouchDesigner
+      - type: Label
+        label: Microsoft Office
+      - type: Label
+        label: Adobe Substance 3D
+      - type: Label
+        label: Netlify
+      - type: Label
+        label: Garage Band
+      - type: Label
+        label: C++
+      - type: Label
+        label: Figma
+    title: Tech Skills
   - type: FeaturedItemsSection
     colors: colors-f
     items:
@@ -195,27 +216,6 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-  - type: LabelsSection
-    colors: colors-f
-    subtitle: I can operate on all of these platforms
-    items:
-      - type: Label
-        label: Adobe Design Suite
-      - type: Label
-        label: TouchDesigner
-      - type: Label
-        label: Microsoft Office
-      - type: Label
-        label: Adobe Substance 3D
-      - type: Label
-        label: Netlify
-      - type: Label
-        label: Garage Band
-      - type: Label
-        label: C++
-      - type: Label
-        label: Figma
-    title: Tech Skills
   - type: DividerSection
     styles:
       self:
