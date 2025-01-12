@@ -151,8 +151,7 @@ sections:
         caption: Image four caption
         elementId: ''
       - type: ImageBlock
-        url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
+        url: /images/Artboard 3KiRiMag Viz.jpg
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
