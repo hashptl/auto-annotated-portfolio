@@ -127,7 +127,7 @@ sections:
       subtitle:
         textAlign: center
   - type: MediaGallerySection
-    title: Gallery
+    title: Design Language for KIRI mag
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
