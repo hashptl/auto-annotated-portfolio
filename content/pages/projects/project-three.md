@@ -18,13 +18,6 @@ media:
   type: ImageBlock
   url: /images/Article Cover Assignmenthm opt2.jpg
   altText: Project image
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 100
 ---
 > “Consensus is not merely procedural; it must embody the dignity of all participants.” 
 
