@@ -260,7 +260,7 @@ sections:
         borderStyle: solid
   - type: ContactSection
     backgroundSize: full
-    title: "Let’s talk... \U0001F4AC"
+    title: Reach out to me
     colors: colors-f
     form:
       type: FormBlock
