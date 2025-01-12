@@ -49,19 +49,21 @@ sections:
     text: >+
       <div style="text-align: center">I am an interdisciplinary writer
       \[focusing mostly on science journalism], multimedia designer and digital
-      content specialist. I have studied media communications, policy, and
-      philosophy of science & tech. Currently working as a digital content
-      executive for a global MedTech company where I translate complex
-      scientific literature into accessible narrative, I am also studying
-      policymaking. I am most interested in finding ways to enable "rhizomatic"
-      thinking through materials such as interactive softwares, films, digital
-      artefacts and literary pieces. Additionally, I am deeply invested in
-      understanding the impact of technological progress, and planetary-scale
-      data on the human civilization through a strategic and plicy-making
-      approach. Also skilled in fashion technology, critique and building
-      compelling brand languages - I intend on pulling strands from these
-      disparate domains of learning and build something unique for
-      posterity.</div>
+      content specialist. I have studied media communications and philosophy of
+      science & tech. Currently working as a digital content executive for a
+      global MedTech company where I translate complex scientific literature
+      into accessible narrative, I am also studying policymaking. I am most
+      interested in finding ways to enable "rhizomatic" thinking through
+      materials such as interactive softwares, films, digital artefacts and
+      literary pieces. Additionally, I am deeply invested in understanding the
+      impact of technological progress, and planetary-scale data on human
+      civilization through a strategic and cathedral-thinking approach. Also
+      skilled in fashion technology, critique and building compelling brand
+      languages - I intend on pulling strands from these disparate domains of
+      learning and build something unique for posterity.
+
+
+      </div>
 
   - colors: colors-f
     type: FeaturedProjectsSection
