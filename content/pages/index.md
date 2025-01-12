@@ -60,10 +60,8 @@ sections:
       civilization through a strategic and cathedral-thinking approach. Also
       skilled in fashion technology, critique and building compelling brand
       languages - I intend on pulling strands from these disparate domains of
-      learning and build something unique for posterity.
-
-
-      </div>
+      learning and build something unique for
+      posterity.![](https://preview--skailabs-2eee7.stackbit.dev/_static/app-assets/public/images/GradientSLheader%20for%20substack.png)</div>
 
   - colors: colors-f
     type: FeaturedProjectsSection
