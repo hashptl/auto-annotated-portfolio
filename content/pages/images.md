@@ -196,7 +196,7 @@ sections:
       subtitle:
         textAlign: center
 addTitleSuffix: true
-colors: colors-c
+colors: colors-e
 backgroundImage:
   type: BackgroundImage
   url: /images/22BGSL.jpg
