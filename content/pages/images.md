@@ -128,7 +128,7 @@ sections:
         textAlign: center
   - type: MediaGallerySection
     title: Design Language for KIRI mag
-    subtitle: This is the subtitle
+    subtitle: 'Kiri '
     images:
       - type: ImageBlock
         url: /images/Artboard 10KiRiMag Viz.jpg
