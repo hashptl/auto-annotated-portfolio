@@ -29,9 +29,9 @@ sections:
       in my inclination for "Cathedral Thinking". I think in a burning world
       which surveys a very ambiguous future of either transcendence or
       destruction - the importance of science coverage is only going to increase
-      by many orders of magnitude. *I intend on being at the very helm of
-      it*.                I love Bjork's music, Andrei Tarkovsky's Solaris is my
-      favourite film, I like debates and not playing chess by the books.</div>
+      by many orders of magnitude. *I intend on being at the very helm of it*. I
+      love Bjork's music, Andrei Tarkovsky's Solaris is my favourite film, I
+      like debates and not playing chess by the books.</div>
 
     media:
       type: ImageBlock
