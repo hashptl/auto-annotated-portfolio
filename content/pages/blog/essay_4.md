@@ -18,7 +18,7 @@ media:
   caption: Caption of the image
   elementId: ''
 addTitleSuffix: true
-colors: colors-a
+colors: colors-c
 backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
