@@ -4,7 +4,7 @@ title: 'Excerpts, Ideas & General Frenzy'
 colors: colors-c
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/Artboard 4BGSL.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
