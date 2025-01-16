@@ -4,7 +4,7 @@ title: The God Particle / The God Chemical
 colors: colors-a
 date: '2025-01-31'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: 'a historical timeline of the Higgs Boson & the '
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg
