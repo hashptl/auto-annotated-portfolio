@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: Essay 4; Polymaths
-date: '2025-01-01'
+date: '2025-01-23'
 client: By Sulagna Chatterjee
 description: Coming Soon
 featuredImage:
