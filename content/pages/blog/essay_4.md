@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: This is a blog post title
+title: In Praise of Hideo Kojima
 date: '2025-01-09'
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
