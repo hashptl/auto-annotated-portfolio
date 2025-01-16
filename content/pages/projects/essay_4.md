@@ -3,9 +3,7 @@ type: ProjectLayout
 title: Essay 4; Polymaths
 date: '2025-01-10'
 client: Awesome client
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: Coming Soon
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
