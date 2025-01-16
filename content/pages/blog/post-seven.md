@@ -51,7 +51,7 @@ bottomSections:
     showReadMoreLink: true
   - type: ContactSection
     backgroundSize: full
-    title: Stay up-to-date with my words ✍️
+    title: Let's turn this into a conversation
     colors: colors-f
     form:
       type: FormBlock
