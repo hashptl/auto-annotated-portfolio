@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Essay 4; Polymaths
+title: Essay 5; Alternative Intelligence
 date: '2025-01-23'
 client: By Sulagna Chatterjee
 description: Coming Soon
