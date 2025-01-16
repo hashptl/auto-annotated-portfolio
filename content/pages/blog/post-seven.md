@@ -4,7 +4,7 @@ title: Notion; An Interface that feels like Clay
 colors: colors-a
 date: '2025-06-10'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: Coming Soon
 featuredImage:
   type: ImageBlock
   url: /images/Artboard 3BGSL.jpg
