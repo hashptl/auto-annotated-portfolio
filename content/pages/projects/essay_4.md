@@ -20,7 +20,7 @@ addTitleSuffix: true
 colors: colors-b
 backgroundImage:
   type: BackgroundImage
-  url: /images/Schotel.jpeg
+  url: /images/Artboard 2BGSL.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
