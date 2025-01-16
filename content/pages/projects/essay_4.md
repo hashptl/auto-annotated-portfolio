@@ -6,7 +6,7 @@ client: By Sulagna Chatterjee
 description: Coming Soon
 featuredImage:
   type: ImageBlock
-  url: /images/SKAilabs girl with analog synth for a heart banner 2.jpg
+  url: /images/The Apotheosis Substack Draft Cover.jpg
   altText: Project thumbnail image
   caption: ''
   elementId: ''
