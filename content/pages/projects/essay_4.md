@@ -17,7 +17,7 @@ media:
   caption: Caption of the image
   elementId: ''
 addTitleSuffix: true
-colors: colors-b
+colors: colors-e
 backgroundImage:
   type: BackgroundImage
   url: /images/Artboard 2BGSL.jpg
