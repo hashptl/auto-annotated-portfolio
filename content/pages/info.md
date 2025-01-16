@@ -35,7 +35,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/metask.jpeg
+      url: /images/WhatsApp Image 2025-01-16 at 2.23.24 PM.jpeg
       altText: Hero image
     styles:
       self:
