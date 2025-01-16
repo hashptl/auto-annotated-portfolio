@@ -7,7 +7,7 @@ author: content/data/team/doris-soto.json
 excerpt: a historical timeline of the Higgs Boson & Phlogiston
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image6.jpg
+  url: /images/Gradient Fill 1.png
   altText: Post thumbnail image
 bottomSections:
   - elementId: ''
