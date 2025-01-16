@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Essay 4; Polymaths
 date: '2025-01-10'
-client: Awesome client
+client: By Sulagna Chatterjee
 description: Coming Soon
 featuredImage:
   type: ImageBlock
