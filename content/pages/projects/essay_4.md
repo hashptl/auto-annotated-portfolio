@@ -12,7 +12,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/download.jpeg
+  url: /images/Artboard 1x.png
   altText: Project image
   caption: Caption of the image
   elementId: ''
