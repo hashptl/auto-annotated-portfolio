@@ -2,7 +2,7 @@
 type: PostLayout
 title: Notion; An Interface that feels like Clay
 colors: colors-a
-date: '0002-06-10'
+date: '0020-06-10'
 author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
