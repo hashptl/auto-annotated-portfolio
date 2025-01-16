@@ -12,7 +12,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/Artboard 1x.png
+  url: /images/The Apotheosis Substack Draft Cover.jpg
   altText: Project image
   caption: Caption of the image
   elementId: ''
