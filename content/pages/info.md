@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: I can operate on all of these platforms
+title: About Me
 colors: colors-c
 backgroundImage:
   type: BackgroundImage
@@ -26,14 +26,12 @@ sections:
       emulate this passion into things that have a tangible impact on the world
       ; because I feel an innate responsibility to future generations of
       thinkers and creators. My unrelenting sense of purpose is better elicited
-      in my desire for "Cathedral Thinking". I think in a burning world which
-      surveys a very ambiguous future of either transcendence or destruction -
-      the importance of science coverage is only going to increase by many
-      orders of magnitude. ***I intend on being at the very helm of it.
-
-      ***
-
-      </div>
+      in my inclination for "Cathedral Thinking". I think in a burning world
+      which surveys a very ambiguous future of either transcendence or
+      destruction - the importance of science coverage is only going to increase
+      by many orders of magnitude. *I intend on being at the very helm of it*. I
+      love Bjork's music, Andrei Tarkovsky's Solaris is my favourite film, I
+      like debates and not playing chess by the books.</div>
 
     media:
       type: ImageBlock

@@ -1,0 +1,398 @@
+{
+    "model": "PageLayout",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Final",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "website layout"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "_filePath_slug": "index",
+                "title": "Home",
+                "sections": [
+                    {
+                        "$$type": "HeroSection",
+                        "title": "Hello! I am Sulagna. an alias coined by one of my professors -\"Skai\" is what all my friends call me. ",
+                        "subtitle": "",
+                        "text": "<div style=\"text-align: left\">##### I am an interdisciplinary writer \\[focusing mostly on science journalism], multimedia designer and digital content specialist. I have studied media communications and philosophy of science & tech. Currently working as a digital content executive for a global MedTech company where I translate complex scientific literature into accessible narratives, I am also studying policymaking. I am most interested in finding ways to enable \"rhizomatic\" thinking through materials such as interactive softwares, films, digital artefacts and literary pieces. Additionally, I am deeply invested in understanding the impact of technological progress, and planetary-scale data on human civilization through a strategic and cathedral-thinking approach. Also skilled in fashion technology, critique and building compelling brand languages - I intend on pulling strands from these disparate domains of learning and build something unique for posterity.</div>\n\n",
+                        "actions": [],
+                        "media": null,
+                        "colors": "colors-f",
+                        "backgroundSize": "inset",
+                        "elementId": "",
+                        "styles": {
+                            "self": {
+                                "height": "auto",
+                                "width": "wide",
+                                "margin": [
+                                    "mt-0",
+                                    "mb-0",
+                                    "ml-0",
+                                    "mr-0"
+                                ],
+                                "padding": [
+                                    "pt-36",
+                                    "pb-48",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
+                                "alignItems": "center",
+                                "justifyContent": "center",
+                                "flexDirection": "row-reverse",
+                                "borderColor": "border-complementary"
+                            },
+                            "title": {
+                                "textAlign": "left",
+                                "fontWeight": 400
+                            },
+                            "subtitle": {
+                                "textAlign": "left"
+                            },
+                            "text": {
+                                "textAlign": "left"
+                            },
+                            "actions": {
+                                "justifyContent": "flex-start"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "TextSection",
+                        "colors": "colors-d",
+                        "variant": "variant-b",
+                        "title": "In this portfolio",
+                        "subtitle": "you will find",
+                        "text": "My writing samples, a few designs, prototypes, my final year college project from 2022, a section about me, an unusual amount of truisms and occasionally a few things that have inspired me.\n",
+                        "elementId": "",
+                        "styles": {
+                            "self": {
+                                "height": "auto",
+                                "width": "narrow",
+                                "padding": [
+                                    "pt-28",
+                                    "pb-28",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
+                                "justifyContent": "center"
+                            },
+                            "title": {
+                                "textAlign": "left"
+                            },
+                            "subtitle": {
+                                "textAlign": "left"
+                            },
+                            "text": {
+                                "textAlign": "left"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedProjectsSection",
+                        "title": "Words Permeate Us All",
+                        "subtitle": "ESSAYS ;",
+                        "actions": [
+                            {
+                                "$$type": "Link",
+                                "label": "See all projects",
+                                "altText": null,
+                                "url": "/projects",
+                                "showIcon": null,
+                                "icon": null,
+                                "iconPosition": null,
+                                "elementId": null
+                            }
+                        ],
+                        "projects": [
+                            {
+                                "$$ref": "content/pages/projects/project-two.md",
+                                "$$type": "ProjectLayout"
+                            },
+                            {
+                                "$$ref": "content/pages/projects/project-three.md",
+                                "$$type": "ProjectLayout"
+                            },
+                            {
+                                "$$ref": "content/pages/projects/project-one.md",
+                                "$$type": "ProjectLayout"
+                            },
+                            {
+                                "$$ref": "content/pages/projects/essay_4.md",
+                                "$$type": "ProjectLayout"
+                            }
+                        ],
+                        "colors": "colors-f",
+                        "variant": "variant-b",
+                        "elementId": "",
+                        "showDate": false,
+                        "showDescription": true,
+                        "showFeaturedImage": true,
+                        "showReadMoreLink": true,
+                        "styles": {
+                            "self": {
+                                "height": "auto",
+                                "width": "wide",
+                                "margin": [
+                                    "mt-0",
+                                    "mb-0",
+                                    "ml-0",
+                                    "mr-0"
+                                ],
+                                "padding": [
+                                    "pt-24",
+                                    "pb-24",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
+                                "justifyContent": "center"
+                            },
+                            "title": {
+                                "textAlign": "left"
+                            },
+                            "subtitle": {
+                                "textAlign": "left"
+                            },
+                            "actions": {
+                                "justifyContent": "flex-end"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "CtaSection",
+                        "title": "FUTURISMO - MY COLLEGE PROJECT",
+                        "text": "<div style=\"text-align: left\">Stainslaw Lem, the polish science fiction author wrote *Summa Technologiae* in 1964. The manuscript has tremendous foresight given that most of the things prognosticated in the essays have become real objects and phenomena in the current era. Does fiction precede reality? does science manifest in what starts out as *impossible*? Futurismo explores the human ingenuity behind creating the technologies of hereafter. There is an ongoing belief that nothing is impossible when viewed from the colossal time-scale of the universe itself. We may not have the computation infrastructure needed to solve the most complex mathematical paradoxes deemed \"un-solvable\" right now\\.. but there is no saying we can't do it, many years later, when we have evolved into the technological singularity. Conceived in 2021 and carrying stories ranging from the book that led to the invention of the first pacemaker, interviews from visionaries like Cho Gi Seok (Photographer), Robbie Barat (Bioinformatics researcher and artist at Stanford) and Yoon Ahn (Metaverse' first fashion designer and founder of \"AMBUSH\") Futurismo was made in praise of *prescience.*</div>\n\n",
+                        "actions": [
+                            {
+                                "$$type": "Button",
+                                "label": "Take me to Futurismo",
+                                "altText": "",
+                                "url": "https://drive.google.com/file/d/19gdvkICb9mKTgcyl7W-sretn6G0HgIHJ/view?usp=sharing",
+                                "showIcon": true,
+                                "icon": "arrowRight",
+                                "iconPosition": "right",
+                                "style": "primary",
+                                "elementId": ""
+                            }
+                        ],
+                        "colors": "colors-e",
+                        "backgroundSize": "full",
+                        "elementId": "",
+                        "styles": {
+                            "self": {
+                                "height": "auto",
+                                "width": "narrow",
+                                "padding": [
+                                    "pt-28",
+                                    "pb-28",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
+                                "alignItems": "center",
+                                "justifyContent": "center",
+                                "flexDirection": "col",
+                                "borderRadius": "xx-large",
+                                "borderWidth": 3,
+                                "borderColor": "border-secondary"
+                            },
+                            "title": {
+                                "textAlign": "center"
+                            },
+                            "text": {
+                                "textAlign": "center"
+                            },
+                            "actions": {
+                                "justifyContent": "center"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedPostsSection",
+                        "title": null,
+                        "subtitle": "Featured Posts",
+                        "actions": [
+                            {
+                                "$$type": "Link",
+                                "label": "See all posts",
+                                "altText": null,
+                                "url": "/blog",
+                                "showIcon": null,
+                                "icon": null,
+                                "iconPosition": null,
+                                "elementId": null
+                            }
+                        ],
+                        "posts": [
+                            {
+                                "$$ref": "content/pages/blog/post-six.md",
+                                "$$type": "PostLayout"
+                            },
+                            {
+                                "$$ref": "content/pages/blog/post-four.md",
+                                "$$type": "PostLayout"
+                            },
+                            {
+                                "$$ref": "content/pages/blog/post-three.md",
+                                "$$type": "PostLayout"
+                            }
+                        ],
+                        "colors": "colors-f",
+                        "variant": "variant-d",
+                        "elementId": "",
+                        "showDate": true,
+                        "showAuthor": null,
+                        "showExcerpt": true,
+                        "showFeaturedImage": false,
+                        "showReadMoreLink": true,
+                        "styles": {
+                            "self": {
+                                "height": "auto",
+                                "width": "narrow",
+                                "margin": [
+                                    "mt-0",
+                                    "mb-0",
+                                    "ml-0",
+                                    "mr-0"
+                                ],
+                                "padding": [
+                                    "pt-28",
+                                    "pb-48",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
+                                "justifyContent": "center",
+                                "borderRadius": "none",
+                                "borderWidth": 0,
+                                "borderStyle": "none",
+                                "borderColor": "border-dark"
+                            },
+                            "title": {
+                                "textAlign": "left"
+                            },
+                            "subtitle": {
+                                "textAlign": "left"
+                            },
+                            "actions": {
+                                "justifyContent": "flex-end"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "ContactSection",
+                        "title": "Let's talk",
+                        "text": null,
+                        "form": {
+                            "$$type": "FormBlock",
+                            "title": null,
+                            "fields": [
+                                {
+                                    "$$type": "TextFormControl",
+                                    "name": "firstName",
+                                    "label": "First Name",
+                                    "hideLabel": true,
+                                    "placeholder": "First Name",
+                                    "width": "1/2",
+                                    "isRequired": true
+                                },
+                                {
+                                    "$$type": "TextFormControl",
+                                    "name": "lastName",
+                                    "label": "Last Name",
+                                    "hideLabel": true,
+                                    "placeholder": "Last Name",
+                                    "width": "1/2",
+                                    "isRequired": false
+                                },
+                                {
+                                    "$$type": "EmailFormControl",
+                                    "name": "email",
+                                    "label": "Email",
+                                    "hideLabel": true,
+                                    "placeholder": "Email",
+                                    "width": "1/2",
+                                    "isRequired": true
+                                },
+                                {
+                                    "$$type": "TextFormControl",
+                                    "name": "address",
+                                    "label": "Address",
+                                    "hideLabel": true,
+                                    "placeholder": "Address",
+                                    "width": "1/2",
+                                    "isRequired": true
+                                },
+                                {
+                                    "$$type": "CheckboxFormControl",
+                                    "name": "updatesConsent",
+                                    "label": "Sign me up to recieve updates",
+                                    "width": "full",
+                                    "isRequired": false
+                                }
+                            ],
+                            "submitLabel": "Submit 🚀",
+                            "elementId": "sign-up-form",
+                            "styles": {
+                                "submitLabel": {
+                                    "textAlign": "center"
+                                }
+                            }
+                        },
+                        "media": null,
+                        "colors": "colors-f",
+                        "backgroundSize": "full",
+                        "elementId": null,
+                        "styles": {
+                            "self": {
+                                "height": "auto",
+                                "width": "narrow",
+                                "margin": [
+                                    "mt-0",
+                                    "mb-0",
+                                    "ml-0",
+                                    "mr-0"
+                                ],
+                                "padding": [
+                                    "pt-24",
+                                    "pb-24",
+                                    "pr-4",
+                                    "pl-4"
+                                ],
+                                "alignItems": "center",
+                                "justifyContent": "center",
+                                "flexDirection": "row"
+                            },
+                            "title": {
+                                "textAlign": "left"
+                            },
+                            "text": {
+                                "textAlign": "left"
+                            }
+                        }
+                    }
+                ],
+                "metaTitle": null,
+                "metaDescription": null,
+                "addTitleSuffix": null,
+                "socialImage": null,
+                "metaTags": [],
+                "colors": "colors-c",
+                "backgroundImage": {
+                    "$$type": "BackgroundImage",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/1 Homepage skl.gif",
+                        "$$type": "__asset_model"
+                    },
+                    "backgroundSize": "cover",
+                    "backgroundPosition": "center",
+                    "backgroundRepeat": "no-repeat",
+                    "opacity": 75
+                }
+            }
+        }
+    ]
+}
