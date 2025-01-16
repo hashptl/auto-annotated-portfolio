@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: I can operate on all of these platforms
+title: About Me
 colors: colors-c
 backgroundImage:
   type: BackgroundImage
