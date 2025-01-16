@@ -5,7 +5,7 @@ date: '2025-01-09'
 excerpt: Coming Soon
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Untitled-3bgsl.jpg
   altText: Post thumbnail image
   caption: Caption of the image
   elementId: ''
