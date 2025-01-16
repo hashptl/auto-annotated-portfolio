@@ -1,13 +1,11 @@
 ---
 type: PostLayout
-title: This is a blog post title
+title: In Praise of Hideo Kojima
 date: '2025-01-09'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: Coming Soon
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Untitled-3bgsl.jpg
   altText: Post thumbnail image
   caption: Caption of the image
   elementId: ''

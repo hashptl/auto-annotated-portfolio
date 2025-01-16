@@ -1,10 +1,10 @@
 {
     "type": "Person",
-    "firstName": "Doris",
-    "lastName": "Soto",
+    "firstName": "Sulagna",
+    "lastName": "Chatterjee",
     "image": {
         "type": "ImageBlock",
-        "url": "/images/about.jpg",
+        "url": "/images/WhatsApp Image 2025-01-16 at 2.23.24 PM.jpeg",
         "altText": "Doris Soto photo"
     }
 }
