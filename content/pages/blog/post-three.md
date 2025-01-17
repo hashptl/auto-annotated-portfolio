@@ -7,7 +7,7 @@ author: content/data/team/doris-soto.json
 excerpt: Web3 CASE STUDY
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image3.jpg
+  url: /images/1721227700397.jpg
   altText: Post thumbnail image
 bottomSections:
   - elementId: ''
