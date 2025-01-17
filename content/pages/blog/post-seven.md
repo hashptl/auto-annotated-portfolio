@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Notion; An Interface that feels like Clay
-colors: colors-a
+colors: colors-d
 date: '2025-06-10'
 author: content/data/team/doris-soto.json
 excerpt: Coming Soon
@@ -9,13 +9,6 @@ featuredImage:
   type: ImageBlock
   url: /images/Artboard 3BGSL.jpg
   altText: Post thumbnail image
-backgroundImage:
-  type: BackgroundImage
-  url: /images/gallery-3.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 20
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
