@@ -4,7 +4,7 @@ title: Web3 Case Study
 colors: colors-b
 date: '2024-08-03'
 author: content/data/team/doris-soto.json
-excerpt: creating interactive worlds through prompts
+excerpt: creating interactive digital worlds through vivid descriptions
 featuredImage:
   type: ImageBlock
   url: /images/1721227700397.jpg
