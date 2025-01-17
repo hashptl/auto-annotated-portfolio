@@ -4,7 +4,7 @@ title: Web3 Case Study
 colors: colors-b
 date: '2024-01-01'
 author: content/data/team/doris-soto.json
-excerpt: Web3 CASE STUDY
+excerpt: creating interactive worlds through prompts
 featuredImage:
   type: ImageBlock
   url: /images/1721227700397.jpg
