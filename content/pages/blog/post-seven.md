@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Notion; An Interface that feels like Clay
-colors: colors-a
+colors: colors-d
 date: '2025-06-10'
 author: content/data/team/doris-soto.json
 excerpt: Coming Soon
