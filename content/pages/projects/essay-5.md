@@ -6,7 +6,7 @@ client: By Sulagna Chatterjee
 description: Coming Soon
 featuredImage:
   type: ImageBlock
-  url: /images/SKAilabs girl with analog synth for a heart banner 2.jpg
+  url: /images/Artboard 1x.png
   altText: Project thumbnail image
   caption: ''
   elementId: ''
